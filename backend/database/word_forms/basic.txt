@@ -1,0 +1,41 @@
+{
+  "vietnamese": "sản xuất",
+  "english": "produce",
+  "forms": {
+    "verb": "produce",
+    "noun": "production",
+    "adjective": "productive",
+    "adverb": "productively"
+  }
+}
+
+{
+  "vietnamese": "nhanh",
+  "english": "quick",
+  "forms": {
+    "adjective": "quick",
+    "adverb": "quickly"
+  }
+}
+
+{
+  "vietnamese": "thành công",
+  "english": "succeed",
+  "forms": {
+    "verb": "succeed",
+    "noun": "success",
+    "adjective": "successful",
+    "adverb": "successfully"
+  }
+}
+
+{
+  "vietnamese": "quyết định",
+  "english": "decide",
+  "forms": {
+    "verb": "decide",
+    "noun": "decision",
+    "adjective": "decisive",
+    "adverb": "decisively"
+  }
+}

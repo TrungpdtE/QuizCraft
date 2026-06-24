@@ -1,0 +1,278 @@
+[
+  {
+    "vietnamese": "thông minh",
+    "english": "intelligent",
+    "forms": {
+      "noun": "intelligence",
+      "adjective": "intelligent",
+      "adverb": "intelligently"
+    }
+  },
+  {
+    "vietnamese": "học",
+    "english": "learn",
+    "forms": {
+      "verb": "learn",
+      "noun": "learning",
+      "adjective": "learned"
+    }
+  },
+  {
+    "vietnamese": "huấn luyện",
+    "english": "train",
+    "forms": {
+      "verb": "train",
+      "noun": "training",
+      "adjective": "trained"
+    }
+  },
+  {
+    "vietnamese": "dự đoán",
+    "english": "predict",
+    "forms": {
+      "verb": "predict",
+      "noun": "prediction",
+      "adjective": "predictive",
+      "adverb": "predictively"
+    }
+  },
+  {
+    "vietnamese": "phân loại",
+    "english": "classify",
+    "forms": {
+      "verb": "classify",
+      "noun": "classification",
+      "adjective": "classifiable"
+    }
+  },
+  {
+    "vietnamese": "phát hiện",
+    "english": "detect",
+    "forms": {
+      "verb": "detect",
+      "noun": "detection",
+      "adjective": "detectable"
+    }
+  },
+  {
+    "vietnamese": "nhận diện",
+    "english": "recognize",
+    "forms": {
+      "verb": "recognize",
+      "noun": "recognition",
+      "adjective": "recognizable",
+      "adverb": "recognizably"
+    }
+  },
+  {
+    "vietnamese": "tạo sinh",
+    "english": "generate",
+    "forms": {
+      "verb": "generate",
+      "noun": "generation",
+      "adjective": "generative",
+      "adverb": "generatively"
+    }
+  },
+  {
+    "vietnamese": "nhúng",
+    "english": "embed",
+    "forms": {
+      "verb": "embed",
+      "noun": "embedding",
+      "adjective": "embedded"
+    }
+  },
+  {
+    "vietnamese": "truy xuất",
+    "english": "retrieve",
+    "forms": {
+      "verb": "retrieve",
+      "noun": "retrieval",
+      "adjective": "retrievable"
+    }
+  },
+  {
+    "vietnamese": "xếp hạng",
+    "english": "rank",
+    "forms": {
+      "verb": "rank",
+      "noun": "ranking",
+      "adjective": "ranked"
+    }
+  },
+  {
+    "vietnamese": "đánh giá",
+    "english": "evaluate",
+    "forms": {
+      "verb": "evaluate",
+      "noun": "evaluation",
+      "adjective": "evaluative"
+    }
+  },
+  {
+    "vietnamese": "tinh chỉnh",
+    "english": "fine-tune",
+    "forms": {
+      "verb": "fine-tune",
+      "noun": "fine-tuning",
+      "adjective": "fine-tuned"
+    }
+  },
+  {
+    "vietnamese": "suy luận",
+    "english": "infer",
+    "forms": {
+      "verb": "infer",
+      "noun": "inference",
+      "adjective": "inferential",
+      "adverb": "inferentially"
+    }
+  },
+  {
+    "vietnamese": "khái quát hóa",
+    "english": "generalize",
+    "forms": {
+      "verb": "generalize",
+      "noun": "generalization",
+      "adjective": "generalizable"
+    }
+  },
+  {
+    "vietnamese": "chuyên biệt hóa",
+    "english": "specialize",
+    "forms": {
+      "verb": "specialize",
+      "noun": "specialization",
+      "adjective": "specialized"
+    }
+  },
+  {
+    "vietnamese": "tối ưu",
+    "english": "optimize",
+    "forms": {
+      "verb": "optimize",
+      "noun": "optimization",
+      "adjective": "optimal",
+      "adverb": "optimally"
+    }
+  },
+  {
+    "vietnamese": "hội tụ",
+    "english": "converge",
+    "forms": {
+      "verb": "converge",
+      "noun": "convergence",
+      "adjective": "convergent"
+    }
+  },
+  {
+    "vietnamese": "phân kỳ",
+    "english": "diverge",
+    "forms": {
+      "verb": "diverge",
+      "noun": "divergence",
+      "adjective": "divergent",
+      "adverb": "divergently"
+    }
+  },
+  {
+    "vietnamese": "thiên lệch",
+    "english": "bias",
+    "forms": {
+      "verb": "bias",
+      "noun": "bias",
+      "adjective": "biased"
+    }
+  },
+  {
+    "vietnamese": "công bằng",
+    "english": "fair",
+    "forms": {
+      "noun": "fairness",
+      "adjective": "fair",
+      "adverb": "fairly"
+    }
+  },
+  {
+    "vietnamese": "giải thích được",
+    "english": "interpret",
+    "forms": {
+      "verb": "interpret",
+      "noun": "interpretation",
+      "adjective": "interpretable"
+    }
+  },
+  {
+    "vietnamese": "minh bạch",
+    "english": "transparent",
+    "forms": {
+      "noun": "transparency",
+      "adjective": "transparent",
+      "adverb": "transparently"
+    }
+  },
+  {
+    "vietnamese": "liên quan",
+    "english": "relevant",
+    "forms": {
+      "noun": "relevance",
+      "adjective": "relevant",
+      "adverb": "relevantly"
+    }
+  },
+  {
+    "vietnamese": "tương đồng",
+    "english": "similar",
+    "forms": {
+      "noun": "similarity",
+      "adjective": "similar",
+      "adverb": "similarly"
+    }
+  },
+  {
+    "vietnamese": "chính xác",
+    "english": "precise",
+    "forms": {
+      "noun": "precision",
+      "adjective": "precise",
+      "adverb": "precisely"
+    }
+  },
+  {
+    "vietnamese": "nhớ lại",
+    "english": "recall",
+    "forms": {
+      "verb": "recall",
+      "noun": "recall"
+    }
+  },
+  {
+    "vietnamese": "ảo giác",
+    "english": "hallucinate",
+    "forms": {
+      "verb": "hallucinate",
+      "noun": "hallucination",
+      "adjective": "hallucinatory"
+    }
+  },
+  {
+    "vietnamese": "điều phối",
+    "english": "orchestrate",
+    "forms": {
+      "verb": "orchestrate",
+      "noun": "orchestration",
+      "adjective": "orchestrated"
+    }
+  },
+  {
+    "vietnamese": "tự động hóa",
+    "english": "automate",
+    "forms": {
+      "verb": "automate",
+      "noun": "automation",
+      "adjective": "automatic",
+      "adverb": "automatically"
+    }
+  }
+]

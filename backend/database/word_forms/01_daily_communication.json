@@ -1,0 +1,293 @@
+[
+  {
+    "vietnamese": "giao tiếp",
+    "english": "communicate",
+    "forms": {
+      "verb": "communicate",
+      "noun": "communication",
+      "adjective": "communicative",
+      "adverb": "communicatively"
+    }
+  },
+  {
+    "vietnamese": "giới thiệu",
+    "english": "introduce",
+    "forms": {
+      "verb": "introduce",
+      "noun": "introduction",
+      "adjective": "introductory"
+    }
+  },
+  {
+    "vietnamese": "mô tả",
+    "english": "describe",
+    "forms": {
+      "verb": "describe",
+      "noun": "description",
+      "adjective": "descriptive",
+      "adverb": "descriptively"
+    }
+  },
+  {
+    "vietnamese": "giải thích",
+    "english": "explain",
+    "forms": {
+      "verb": "explain",
+      "noun": "explanation",
+      "adjective": "explanatory"
+    }
+  },
+  {
+    "vietnamese": "thảo luận",
+    "english": "discuss",
+    "forms": {
+      "verb": "discuss",
+      "noun": "discussion",
+      "adjective": "discussable"
+    }
+  },
+  {
+    "vietnamese": "đồng ý",
+    "english": "agree",
+    "forms": {
+      "verb": "agree",
+      "noun": "agreement",
+      "adjective": "agreeable",
+      "adverb": "agreeably"
+    }
+  },
+  {
+    "vietnamese": "không đồng ý",
+    "english": "disagree",
+    "forms": {
+      "verb": "disagree",
+      "noun": "disagreement",
+      "adjective": "disagreeable",
+      "adverb": "disagreeably"
+    }
+  },
+  {
+    "vietnamese": "xin lỗi",
+    "english": "apologize",
+    "forms": {
+      "verb": "apologize",
+      "noun": "apology",
+      "adjective": "apologetic",
+      "adverb": "apologetically"
+    }
+  },
+  {
+    "vietnamese": "mời",
+    "english": "invite",
+    "forms": {
+      "verb": "invite",
+      "noun": "invitation",
+      "adjective": "inviting",
+      "adverb": "invitingly"
+    }
+  },
+  {
+    "vietnamese": "đề nghị",
+    "english": "suggest",
+    "forms": {
+      "verb": "suggest",
+      "noun": "suggestion",
+      "adjective": "suggestive",
+      "adverb": "suggestively"
+    }
+  },
+  {
+    "vietnamese": "quyết định",
+    "english": "decide",
+    "forms": {
+      "verb": "decide",
+      "noun": "decision",
+      "adjective": "decisive",
+      "adverb": "decisively"
+    }
+  },
+  {
+    "vietnamese": "lựa chọn",
+    "english": "choose",
+    "forms": {
+      "verb": "choose",
+      "noun": "choice",
+      "adjective": "chosen"
+    }
+  },
+  {
+    "vietnamese": "thích hơn",
+    "english": "prefer",
+    "forms": {
+      "verb": "prefer",
+      "noun": "preference",
+      "adjective": "preferable",
+      "adverb": "preferably"
+    }
+  },
+  {
+    "vietnamese": "cần thiết",
+    "english": "need",
+    "forms": {
+      "verb": "need",
+      "noun": "necessity",
+      "adjective": "necessary",
+      "adverb": "necessarily"
+    }
+  },
+  {
+    "vietnamese": "hy vọng",
+    "english": "hope",
+    "forms": {
+      "verb": "hope",
+      "noun": "hope",
+      "adjective": "hopeful",
+      "adverb": "hopefully"
+    }
+  },
+  {
+    "vietnamese": "lo lắng",
+    "english": "worry",
+    "forms": {
+      "verb": "worry",
+      "noun": "worry",
+      "adjective": "worried",
+      "adverb": "worryingly"
+    }
+  },
+  {
+    "vietnamese": "ngạc nhiên",
+    "english": "surprise",
+    "forms": {
+      "verb": "surprise",
+      "noun": "surprise",
+      "adjective": "surprising",
+      "adverb": "surprisingly"
+    }
+  },
+  {
+    "vietnamese": "thoải mái",
+    "english": "comfort",
+    "forms": {
+      "verb": "comfort",
+      "noun": "comfort",
+      "adjective": "comfortable",
+      "adverb": "comfortably"
+    }
+  },
+  {
+    "vietnamese": "khác biệt",
+    "english": "differ",
+    "forms": {
+      "verb": "differ",
+      "noun": "difference",
+      "adjective": "different",
+      "adverb": "differently"
+    }
+  },
+  {
+    "vietnamese": "tương tự",
+    "english": "similar",
+    "forms": {
+      "noun": "similarity",
+      "adjective": "similar",
+      "adverb": "similarly"
+    }
+  },
+  {
+    "vietnamese": "thường xuyên",
+    "english": "frequent",
+    "forms": {
+      "verb": "frequent",
+      "noun": "frequency",
+      "adjective": "frequent",
+      "adverb": "frequently"
+    }
+  },
+  {
+    "vietnamese": "hiếm",
+    "english": "rare",
+    "forms": {
+      "noun": "rarity",
+      "adjective": "rare",
+      "adverb": "rarely"
+    }
+  },
+  {
+    "vietnamese": "đúng",
+    "english": "correct",
+    "forms": {
+      "verb": "correct",
+      "noun": "correction",
+      "adjective": "correct",
+      "adverb": "correctly"
+    }
+  },
+  {
+    "vietnamese": "sai",
+    "english": "mistake",
+    "forms": {
+      "verb": "mistake",
+      "noun": "mistake",
+      "adjective": "mistaken",
+      "adverb": "mistakenly"
+    }
+  },
+  {
+    "vietnamese": "rõ ràng",
+    "english": "clarify",
+    "forms": {
+      "verb": "clarify",
+      "noun": "clarity",
+      "adjective": "clear",
+      "adverb": "clearly"
+    }
+  },
+  {
+    "vietnamese": "đơn giản",
+    "english": "simplify",
+    "forms": {
+      "verb": "simplify",
+      "noun": "simplicity",
+      "adjective": "simple",
+      "adverb": "simply"
+    }
+  },
+  {
+    "vietnamese": "thật",
+    "english": "real",
+    "forms": {
+      "noun": "reality",
+      "adjective": "real",
+      "adverb": "really"
+    }
+  },
+  {
+    "vietnamese": "an toàn",
+    "english": "safe",
+    "forms": {
+      "adjective": "safe",
+      "adverb": "safely"
+    }
+  },
+  {
+    "vietnamese": "nguy hiểm",
+    "english": "endanger",
+    "forms": {
+      "verb": "endanger",
+      "noun": "danger",
+      "adjective": "dangerous",
+      "adverb": "dangerously"
+    }
+  },
+  {
+    "vietnamese": "giúp đỡ",
+    "english": "help",
+    "forms": {
+      "verb": "help",
+      "noun": "help",
+      "adjective": "helpful",
+      "adverb": "helpfully"
+    }
+  }
+]

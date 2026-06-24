@@ -1,0 +1,281 @@
+[
+  {
+    "vietnamese": "lập trình",
+    "english": "program",
+    "forms": {
+      "verb": "program",
+      "noun": "program",
+      "adjective": "programmable",
+      "adverb": "programmatically"
+    }
+  },
+  {
+    "vietnamese": "phát triển",
+    "english": "develop",
+    "forms": {
+      "verb": "develop",
+      "noun": "development",
+      "adjective": "developmental"
+    }
+  },
+  {
+    "vietnamese": "triển khai",
+    "english": "deploy",
+    "forms": {
+      "verb": "deploy",
+      "noun": "deployment",
+      "adjective": "deployable"
+    }
+  },
+  {
+    "vietnamese": "cấu hình",
+    "english": "configure",
+    "forms": {
+      "verb": "configure",
+      "noun": "configuration",
+      "adjective": "configurable"
+    }
+  },
+  {
+    "vietnamese": "xác thực danh tính",
+    "english": "authenticate",
+    "forms": {
+      "verb": "authenticate",
+      "noun": "authentication",
+      "adjective": "authenticated"
+    }
+  },
+  {
+    "vietnamese": "phân quyền",
+    "english": "authorize",
+    "forms": {
+      "verb": "authorize",
+      "noun": "authorization",
+      "adjective": "authorized"
+    }
+  },
+  {
+    "vietnamese": "xác nhận hợp lệ",
+    "english": "validate",
+    "forms": {
+      "verb": "validate",
+      "noun": "validation",
+      "adjective": "valid",
+      "adverb": "validly"
+    }
+  },
+  {
+    "vietnamese": "mã hóa",
+    "english": "encrypt",
+    "forms": {
+      "verb": "encrypt",
+      "noun": "encryption",
+      "adjective": "encrypted"
+    }
+  },
+  {
+    "vietnamese": "giải mã",
+    "english": "decrypt",
+    "forms": {
+      "verb": "decrypt",
+      "noun": "decryption",
+      "adjective": "decrypted"
+    }
+  },
+  {
+    "vietnamese": "lưu trữ tạm",
+    "english": "cache",
+    "forms": {
+      "verb": "cache",
+      "noun": "cache",
+      "adjective": "cacheable"
+    }
+  },
+  {
+    "vietnamese": "truy vấn",
+    "english": "query",
+    "forms": {
+      "verb": "query",
+      "noun": "query",
+      "adjective": "queryable"
+    }
+  },
+  {
+    "vietnamese": "lập chỉ mục",
+    "english": "index",
+    "forms": {
+      "verb": "index",
+      "noun": "index",
+      "adjective": "indexed"
+    }
+  },
+  {
+    "vietnamese": "di chuyển dữ liệu",
+    "english": "migrate",
+    "forms": {
+      "verb": "migrate",
+      "noun": "migration",
+      "adjective": "migratory"
+    }
+  },
+  {
+    "vietnamese": "tích hợp",
+    "english": "integrate",
+    "forms": {
+      "verb": "integrate",
+      "noun": "integration",
+      "adjective": "integrated"
+    }
+  },
+  {
+    "vietnamese": "phụ thuộc",
+    "english": "depend",
+    "forms": {
+      "verb": "depend",
+      "noun": "dependency",
+      "adjective": "dependent",
+      "adverb": "dependently"
+    }
+  },
+  {
+    "vietnamese": "đồng thời",
+    "english": "concur",
+    "forms": {
+      "verb": "concur",
+      "noun": "concurrency",
+      "adjective": "concurrent",
+      "adverb": "concurrently"
+    }
+  },
+  {
+    "vietnamese": "bất đồng bộ",
+    "english": "synchronize",
+    "forms": {
+      "verb": "synchronize",
+      "noun": "asynchrony",
+      "adjective": "asynchronous",
+      "adverb": "asynchronously"
+    }
+  },
+  {
+    "vietnamese": "mở rộng",
+    "english": "scale",
+    "forms": {
+      "verb": "scale",
+      "noun": "scalability",
+      "adjective": "scalable"
+    }
+  },
+  {
+    "vietnamese": "sẵn sàng",
+    "english": "available",
+    "forms": {
+      "noun": "availability",
+      "adjective": "available",
+      "adverb": "readily"
+    }
+  },
+  {
+    "vietnamese": "nhất quán",
+    "english": "consist",
+    "forms": {
+      "verb": "consist",
+      "noun": "consistency",
+      "adjective": "consistent",
+      "adverb": "consistently"
+    }
+  },
+  {
+    "vietnamese": "bền vững",
+    "english": "persist",
+    "forms": {
+      "verb": "persist",
+      "noun": "persistence",
+      "adjective": "persistent",
+      "adverb": "persistently"
+    }
+  },
+  {
+    "vietnamese": "phục hồi",
+    "english": "recover",
+    "forms": {
+      "verb": "recover",
+      "noun": "recovery",
+      "adjective": "recoverable"
+    }
+  },
+  {
+    "vietnamese": "dự phòng",
+    "english": "replicate",
+    "forms": {
+      "verb": "replicate",
+      "noun": "replication",
+      "adjective": "replicable"
+    }
+  },
+  {
+    "vietnamese": "giám sát",
+    "english": "monitor",
+    "forms": {
+      "verb": "monitor",
+      "noun": "monitoring",
+      "adjective": "monitored"
+    }
+  },
+  {
+    "vietnamese": "ghi nhật ký",
+    "english": "log",
+    "forms": {
+      "verb": "log",
+      "noun": "log",
+      "adjective": "logged"
+    }
+  },
+  {
+    "vietnamese": "gỡ lỗi",
+    "english": "debug",
+    "forms": {
+      "verb": "debug",
+      "noun": "debugging",
+      "adjective": "debuggable"
+    }
+  },
+  {
+    "vietnamese": "kiểm thử",
+    "english": "test",
+    "forms": {
+      "verb": "test",
+      "noun": "test",
+      "adjective": "testable"
+    }
+  },
+  {
+    "vietnamese": "bảo trì",
+    "english": "maintain",
+    "forms": {
+      "verb": "maintain",
+      "noun": "maintenance",
+      "adjective": "maintainable"
+    }
+  },
+  {
+    "vietnamese": "tối ưu",
+    "english": "optimize",
+    "forms": {
+      "verb": "optimize",
+      "noun": "optimization",
+      "adjective": "optimal",
+      "adverb": "optimally"
+    }
+  },
+  {
+    "vietnamese": "phản hồi",
+    "english": "respond",
+    "forms": {
+      "verb": "respond",
+      "noun": "response",
+      "adjective": "responsive",
+      "adverb": "responsively"
+    }
+  }
+]

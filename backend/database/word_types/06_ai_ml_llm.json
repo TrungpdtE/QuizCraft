@@ -1,0 +1,638 @@
+[
+  {
+    "sentence": "Machine learning models discover patterns from data.",
+    "tokens": [
+      {
+        "word": "Machine",
+        "type": "N"
+      },
+      {
+        "word": "learning",
+        "type": "N"
+      },
+      {
+        "word": "models",
+        "type": "N"
+      },
+      {
+        "word": "discover",
+        "type": "V"
+      },
+      {
+        "word": "patterns",
+        "type": "N"
+      },
+      {
+        "word": "from",
+        "type": "P"
+      },
+      {
+        "word": "data",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "The training process gradually minimizes prediction error.",
+    "tokens": [
+      {
+        "word": "The",
+        "type": "AR"
+      },
+      {
+        "word": "training",
+        "type": "N"
+      },
+      {
+        "word": "process",
+        "type": "N"
+      },
+      {
+        "word": "gradually",
+        "type": "ADV"
+      },
+      {
+        "word": "minimizes",
+        "type": "V"
+      },
+      {
+        "word": "prediction",
+        "type": "N"
+      },
+      {
+        "word": "error",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Neural networks contain many adjustable parameters.",
+    "tokens": [
+      {
+        "word": "Neural",
+        "type": "ADJ"
+      },
+      {
+        "word": "networks",
+        "type": "N"
+      },
+      {
+        "word": "contain",
+        "type": "V"
+      },
+      {
+        "word": "many",
+        "type": "DET"
+      },
+      {
+        "word": "adjustable",
+        "type": "ADJ"
+      },
+      {
+        "word": "parameters",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "This classifier predicts the correct category accurately.",
+    "tokens": [
+      {
+        "word": "This",
+        "type": "DET"
+      },
+      {
+        "word": "classifier",
+        "type": "N"
+      },
+      {
+        "word": "predicts",
+        "type": "V"
+      },
+      {
+        "word": "the",
+        "type": "AR"
+      },
+      {
+        "word": "correct",
+        "type": "ADJ"
+      },
+      {
+        "word": "category",
+        "type": "N"
+      },
+      {
+        "word": "accurately",
+        "type": "ADV"
+      }
+    ]
+  },
+  {
+    "sentence": "We evaluate model performance on unseen examples.",
+    "tokens": [
+      {
+        "word": "We",
+        "type": "PRON"
+      },
+      {
+        "word": "evaluate",
+        "type": "V"
+      },
+      {
+        "word": "model",
+        "type": "N"
+      },
+      {
+        "word": "performance",
+        "type": "N"
+      },
+      {
+        "word": "on",
+        "type": "P"
+      },
+      {
+        "word": "unseen",
+        "type": "ADJ"
+      },
+      {
+        "word": "examples",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Overfitting causes poor generalization to new data.",
+    "tokens": [
+      {
+        "word": "Overfitting",
+        "type": "N"
+      },
+      {
+        "word": "causes",
+        "type": "V"
+      },
+      {
+        "word": "poor",
+        "type": "ADJ"
+      },
+      {
+        "word": "generalization",
+        "type": "N"
+      },
+      {
+        "word": "to",
+        "type": "P"
+      },
+      {
+        "word": "new",
+        "type": "ADJ"
+      },
+      {
+        "word": "data",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Data preprocessing removes noisy or invalid samples.",
+    "tokens": [
+      {
+        "word": "Data",
+        "type": "N"
+      },
+      {
+        "word": "preprocessing",
+        "type": "N"
+      },
+      {
+        "word": "removes",
+        "type": "V"
+      },
+      {
+        "word": "noisy",
+        "type": "ADJ"
+      },
+      {
+        "word": "or",
+        "type": "CONJ"
+      },
+      {
+        "word": "invalid",
+        "type": "ADJ"
+      },
+      {
+        "word": "samples",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "The embedding model represents text as dense vectors.",
+    "tokens": [
+      {
+        "word": "The",
+        "type": "AR"
+      },
+      {
+        "word": "embedding",
+        "type": "N"
+      },
+      {
+        "word": "model",
+        "type": "N"
+      },
+      {
+        "word": "represents",
+        "type": "V"
+      },
+      {
+        "word": "text",
+        "type": "N"
+      },
+      {
+        "word": "as",
+        "type": "P"
+      },
+      {
+        "word": "dense",
+        "type": "ADJ"
+      },
+      {
+        "word": "vectors",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Vector databases retrieve semantically similar documents.",
+    "tokens": [
+      {
+        "word": "Vector",
+        "type": "N"
+      },
+      {
+        "word": "databases",
+        "type": "N"
+      },
+      {
+        "word": "retrieve",
+        "type": "V"
+      },
+      {
+        "word": "semantically",
+        "type": "ADV"
+      },
+      {
+        "word": "similar",
+        "type": "ADJ"
+      },
+      {
+        "word": "documents",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "The reranker selects more relevant search results.",
+    "tokens": [
+      {
+        "word": "The",
+        "type": "AR"
+      },
+      {
+        "word": "reranker",
+        "type": "N"
+      },
+      {
+        "word": "selects",
+        "type": "V"
+      },
+      {
+        "word": "more",
+        "type": "ADV"
+      },
+      {
+        "word": "relevant",
+        "type": "ADJ"
+      },
+      {
+        "word": "search",
+        "type": "N"
+      },
+      {
+        "word": "results",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Retrieval augmented generation reduces factual hallucinations.",
+    "tokens": [
+      {
+        "word": "Retrieval",
+        "type": "N"
+      },
+      {
+        "word": "augmented",
+        "type": "ADJ"
+      },
+      {
+        "word": "generation",
+        "type": "N"
+      },
+      {
+        "word": "reduces",
+        "type": "V"
+      },
+      {
+        "word": "factual",
+        "type": "ADJ"
+      },
+      {
+        "word": "hallucinations",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Large language models generate contextually appropriate responses.",
+    "tokens": [
+      {
+        "word": "Large",
+        "type": "ADJ"
+      },
+      {
+        "word": "language",
+        "type": "N"
+      },
+      {
+        "word": "models",
+        "type": "N"
+      },
+      {
+        "word": "generate",
+        "type": "V"
+      },
+      {
+        "word": "contextually",
+        "type": "ADV"
+      },
+      {
+        "word": "appropriate",
+        "type": "ADJ"
+      },
+      {
+        "word": "responses",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Prompt engineering guides model behavior effectively.",
+    "tokens": [
+      {
+        "word": "Prompt",
+        "type": "N"
+      },
+      {
+        "word": "engineering",
+        "type": "N"
+      },
+      {
+        "word": "guides",
+        "type": "V"
+      },
+      {
+        "word": "model",
+        "type": "N"
+      },
+      {
+        "word": "behavior",
+        "type": "N"
+      },
+      {
+        "word": "effectively",
+        "type": "ADV"
+      }
+    ]
+  },
+  {
+    "sentence": "Fine tuning adapts a general model to specialized tasks.",
+    "tokens": [
+      {
+        "word": "Fine",
+        "type": "ADJ"
+      },
+      {
+        "word": "tuning",
+        "type": "N"
+      },
+      {
+        "word": "adapts",
+        "type": "V"
+      },
+      {
+        "word": "a",
+        "type": "AR"
+      },
+      {
+        "word": "general",
+        "type": "ADJ"
+      },
+      {
+        "word": "model",
+        "type": "N"
+      },
+      {
+        "word": "to",
+        "type": "P"
+      },
+      {
+        "word": "specialized",
+        "type": "ADJ"
+      },
+      {
+        "word": "tasks",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Quantization significantly reduces model memory usage.",
+    "tokens": [
+      {
+        "word": "Quantization",
+        "type": "N"
+      },
+      {
+        "word": "significantly",
+        "type": "ADV"
+      },
+      {
+        "word": "reduces",
+        "type": "V"
+      },
+      {
+        "word": "model",
+        "type": "N"
+      },
+      {
+        "word": "memory",
+        "type": "N"
+      },
+      {
+        "word": "usage",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Batch inference processes multiple inputs simultaneously.",
+    "tokens": [
+      {
+        "word": "Batch",
+        "type": "N"
+      },
+      {
+        "word": "inference",
+        "type": "N"
+      },
+      {
+        "word": "processes",
+        "type": "V"
+      },
+      {
+        "word": "multiple",
+        "type": "ADJ"
+      },
+      {
+        "word": "inputs",
+        "type": "N"
+      },
+      {
+        "word": "simultaneously",
+        "type": "ADV"
+      }
+    ]
+  },
+  {
+    "sentence": "The agent autonomously chooses appropriate tools.",
+    "tokens": [
+      {
+        "word": "The",
+        "type": "AR"
+      },
+      {
+        "word": "agent",
+        "type": "N"
+      },
+      {
+        "word": "autonomously",
+        "type": "ADV"
+      },
+      {
+        "word": "chooses",
+        "type": "V"
+      },
+      {
+        "word": "appropriate",
+        "type": "ADJ"
+      },
+      {
+        "word": "tools",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Human feedback improves response quality and safety.",
+    "tokens": [
+      {
+        "word": "Human",
+        "type": "ADJ"
+      },
+      {
+        "word": "feedback",
+        "type": "N"
+      },
+      {
+        "word": "improves",
+        "type": "V"
+      },
+      {
+        "word": "response",
+        "type": "N"
+      },
+      {
+        "word": "quality",
+        "type": "N"
+      },
+      {
+        "word": "and",
+        "type": "CONJ"
+      },
+      {
+        "word": "safety",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Bias evaluation reveals unfair model behavior.",
+    "tokens": [
+      {
+        "word": "Bias",
+        "type": "N"
+      },
+      {
+        "word": "evaluation",
+        "type": "N"
+      },
+      {
+        "word": "reveals",
+        "type": "V"
+      },
+      {
+        "word": "unfair",
+        "type": "ADJ"
+      },
+      {
+        "word": "model",
+        "type": "N"
+      },
+      {
+        "word": "behavior",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Production monitoring detects model drift early.",
+    "tokens": [
+      {
+        "word": "Production",
+        "type": "N"
+      },
+      {
+        "word": "monitoring",
+        "type": "N"
+      },
+      {
+        "word": "detects",
+        "type": "V"
+      },
+      {
+        "word": "model",
+        "type": "N"
+      },
+      {
+        "word": "drift",
+        "type": "N"
+      },
+      {
+        "word": "early",
+        "type": "ADV"
+      }
+    ]
+  }
+]

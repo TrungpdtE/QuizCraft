@@ -1,0 +1,618 @@
+[
+  {
+    "sentence": "I am applying for the backend internship.",
+    "tokens": [
+      {
+        "word": "I",
+        "type": "PRON"
+      },
+      {
+        "word": "am",
+        "type": "V"
+      },
+      {
+        "word": "applying",
+        "type": "V"
+      },
+      {
+        "word": "for",
+        "type": "P"
+      },
+      {
+        "word": "the",
+        "type": "AR"
+      },
+      {
+        "word": "backend",
+        "type": "ADJ"
+      },
+      {
+        "word": "internship",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "My recent project demonstrates practical experience.",
+    "tokens": [
+      {
+        "word": "My",
+        "type": "DET"
+      },
+      {
+        "word": "recent",
+        "type": "ADJ"
+      },
+      {
+        "word": "project",
+        "type": "N"
+      },
+      {
+        "word": "demonstrates",
+        "type": "V"
+      },
+      {
+        "word": "practical",
+        "type": "ADJ"
+      },
+      {
+        "word": "experience",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "We collaborated closely with another team.",
+    "tokens": [
+      {
+        "word": "We",
+        "type": "PRON"
+      },
+      {
+        "word": "collaborated",
+        "type": "V"
+      },
+      {
+        "word": "closely",
+        "type": "ADV"
+      },
+      {
+        "word": "with",
+        "type": "P"
+      },
+      {
+        "word": "another",
+        "type": "DET"
+      },
+      {
+        "word": "team",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "I independently designed and implemented the feature.",
+    "tokens": [
+      {
+        "word": "I",
+        "type": "PRON"
+      },
+      {
+        "word": "independently",
+        "type": "ADV"
+      },
+      {
+        "word": "designed",
+        "type": "V"
+      },
+      {
+        "word": "and",
+        "type": "CONJ"
+      },
+      {
+        "word": "implemented",
+        "type": "V"
+      },
+      {
+        "word": "the",
+        "type": "AR"
+      },
+      {
+        "word": "feature",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "The interviewer asked several technical questions.",
+    "tokens": [
+      {
+        "word": "The",
+        "type": "AR"
+      },
+      {
+        "word": "interviewer",
+        "type": "N"
+      },
+      {
+        "word": "asked",
+        "type": "V"
+      },
+      {
+        "word": "several",
+        "type": "DET"
+      },
+      {
+        "word": "technical",
+        "type": "ADJ"
+      },
+      {
+        "word": "questions",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Please describe your biggest engineering challenge.",
+    "tokens": [
+      {
+        "word": "Please",
+        "type": "ADV"
+      },
+      {
+        "word": "describe",
+        "type": "V"
+      },
+      {
+        "word": "your",
+        "type": "DET"
+      },
+      {
+        "word": "biggest",
+        "type": "ADJ"
+      },
+      {
+        "word": "engineering",
+        "type": "N"
+      },
+      {
+        "word": "challenge",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "I carefully analyze problems before writing code.",
+    "tokens": [
+      {
+        "word": "I",
+        "type": "PRON"
+      },
+      {
+        "word": "carefully",
+        "type": "ADV"
+      },
+      {
+        "word": "analyze",
+        "type": "V"
+      },
+      {
+        "word": "problems",
+        "type": "N"
+      },
+      {
+        "word": "before",
+        "type": "P"
+      },
+      {
+        "word": "writing",
+        "type": "V"
+      },
+      {
+        "word": "code",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Our group successfully delivered the final product.",
+    "tokens": [
+      {
+        "word": "Our",
+        "type": "DET"
+      },
+      {
+        "word": "group",
+        "type": "N"
+      },
+      {
+        "word": "successfully",
+        "type": "ADV"
+      },
+      {
+        "word": "delivered",
+        "type": "V"
+      },
+      {
+        "word": "the",
+        "type": "AR"
+      },
+      {
+        "word": "final",
+        "type": "ADJ"
+      },
+      {
+        "word": "product",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "This internship offers valuable learning opportunities.",
+    "tokens": [
+      {
+        "word": "This",
+        "type": "DET"
+      },
+      {
+        "word": "internship",
+        "type": "N"
+      },
+      {
+        "word": "offers",
+        "type": "V"
+      },
+      {
+        "word": "valuable",
+        "type": "ADJ"
+      },
+      {
+        "word": "learning",
+        "type": "N"
+      },
+      {
+        "word": "opportunities",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "I can communicate complex ideas clearly.",
+    "tokens": [
+      {
+        "word": "I",
+        "type": "PRON"
+      },
+      {
+        "word": "can",
+        "type": "V"
+      },
+      {
+        "word": "communicate",
+        "type": "V"
+      },
+      {
+        "word": "complex",
+        "type": "ADJ"
+      },
+      {
+        "word": "ideas",
+        "type": "N"
+      },
+      {
+        "word": "clearly",
+        "type": "ADV"
+      }
+    ]
+  },
+  {
+    "sentence": "The manager provided constructive feedback.",
+    "tokens": [
+      {
+        "word": "The",
+        "type": "AR"
+      },
+      {
+        "word": "manager",
+        "type": "N"
+      },
+      {
+        "word": "provided",
+        "type": "V"
+      },
+      {
+        "word": "constructive",
+        "type": "ADJ"
+      },
+      {
+        "word": "feedback",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "We frequently organized short planning meetings.",
+    "tokens": [
+      {
+        "word": "We",
+        "type": "PRON"
+      },
+      {
+        "word": "frequently",
+        "type": "ADV"
+      },
+      {
+        "word": "organized",
+        "type": "V"
+      },
+      {
+        "word": "short",
+        "type": "ADJ"
+      },
+      {
+        "word": "planning",
+        "type": "N"
+      },
+      {
+        "word": "meetings",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "My strongest skill is systematic problem solving.",
+    "tokens": [
+      {
+        "word": "My",
+        "type": "DET"
+      },
+      {
+        "word": "strongest",
+        "type": "ADJ"
+      },
+      {
+        "word": "skill",
+        "type": "N"
+      },
+      {
+        "word": "is",
+        "type": "V"
+      },
+      {
+        "word": "systematic",
+        "type": "ADJ"
+      },
+      {
+        "word": "problem",
+        "type": "N"
+      },
+      {
+        "word": "solving",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "I made a mistake but fixed it quickly.",
+    "tokens": [
+      {
+        "word": "I",
+        "type": "PRON"
+      },
+      {
+        "word": "made",
+        "type": "V"
+      },
+      {
+        "word": "a",
+        "type": "AR"
+      },
+      {
+        "word": "mistake",
+        "type": "N"
+      },
+      {
+        "word": "but",
+        "type": "CONJ"
+      },
+      {
+        "word": "fixed",
+        "type": "V"
+      },
+      {
+        "word": "it",
+        "type": "PRON"
+      },
+      {
+        "word": "quickly",
+        "type": "ADV"
+      }
+    ]
+  },
+  {
+    "sentence": "Good interns ask relevant questions proactively.",
+    "tokens": [
+      {
+        "word": "Good",
+        "type": "ADJ"
+      },
+      {
+        "word": "interns",
+        "type": "N"
+      },
+      {
+        "word": "ask",
+        "type": "V"
+      },
+      {
+        "word": "relevant",
+        "type": "ADJ"
+      },
+      {
+        "word": "questions",
+        "type": "N"
+      },
+      {
+        "word": "proactively",
+        "type": "ADV"
+      }
+    ]
+  },
+  {
+    "sentence": "The company expects responsible professional behavior.",
+    "tokens": [
+      {
+        "word": "The",
+        "type": "AR"
+      },
+      {
+        "word": "company",
+        "type": "N"
+      },
+      {
+        "word": "expects",
+        "type": "V"
+      },
+      {
+        "word": "responsible",
+        "type": "ADJ"
+      },
+      {
+        "word": "professional",
+        "type": "ADJ"
+      },
+      {
+        "word": "behavior",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "I want to develop stronger technical skills.",
+    "tokens": [
+      {
+        "word": "I",
+        "type": "PRON"
+      },
+      {
+        "word": "want",
+        "type": "V"
+      },
+      {
+        "word": "to",
+        "type": "P"
+      },
+      {
+        "word": "develop",
+        "type": "V"
+      },
+      {
+        "word": "stronger",
+        "type": "ADJ"
+      },
+      {
+        "word": "technical",
+        "type": "ADJ"
+      },
+      {
+        "word": "skills",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "We prioritized urgent tasks during the sprint.",
+    "tokens": [
+      {
+        "word": "We",
+        "type": "PRON"
+      },
+      {
+        "word": "prioritized",
+        "type": "V"
+      },
+      {
+        "word": "urgent",
+        "type": "ADJ"
+      },
+      {
+        "word": "tasks",
+        "type": "N"
+      },
+      {
+        "word": "during",
+        "type": "P"
+      },
+      {
+        "word": "the",
+        "type": "AR"
+      },
+      {
+        "word": "sprint",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "She confidently presented her design decision.",
+    "tokens": [
+      {
+        "word": "She",
+        "type": "PRON"
+      },
+      {
+        "word": "confidently",
+        "type": "ADV"
+      },
+      {
+        "word": "presented",
+        "type": "V"
+      },
+      {
+        "word": "her",
+        "type": "DET"
+      },
+      {
+        "word": "design",
+        "type": "N"
+      },
+      {
+        "word": "decision",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Learning from failure makes engineers more adaptable.",
+    "tokens": [
+      {
+        "word": "Learning",
+        "type": "N"
+      },
+      {
+        "word": "from",
+        "type": "P"
+      },
+      {
+        "word": "failure",
+        "type": "N"
+      },
+      {
+        "word": "makes",
+        "type": "V"
+      },
+      {
+        "word": "engineers",
+        "type": "N"
+      },
+      {
+        "word": "more",
+        "type": "ADV"
+      },
+      {
+        "word": "adaptable",
+        "type": "ADJ"
+      }
+    ]
+  }
+]

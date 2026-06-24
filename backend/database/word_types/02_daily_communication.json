@@ -1,0 +1,594 @@
+[
+  {
+    "sentence": "I usually drink coffee in the morning.",
+    "tokens": [
+      {
+        "word": "I",
+        "type": "PRON"
+      },
+      {
+        "word": "usually",
+        "type": "ADV"
+      },
+      {
+        "word": "drink",
+        "type": "V"
+      },
+      {
+        "word": "coffee",
+        "type": "N"
+      },
+      {
+        "word": "in",
+        "type": "P"
+      },
+      {
+        "word": "the",
+        "type": "AR"
+      },
+      {
+        "word": "morning",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Could you speak more slowly please.",
+    "tokens": [
+      {
+        "word": "Could",
+        "type": "V"
+      },
+      {
+        "word": "you",
+        "type": "PRON"
+      },
+      {
+        "word": "speak",
+        "type": "V"
+      },
+      {
+        "word": "more",
+        "type": "ADV"
+      },
+      {
+        "word": "slowly",
+        "type": "ADV"
+      },
+      {
+        "word": "please",
+        "type": "ADV"
+      }
+    ]
+  },
+  {
+    "sentence": "She kindly showed me the nearest station.",
+    "tokens": [
+      {
+        "word": "She",
+        "type": "PRON"
+      },
+      {
+        "word": "kindly",
+        "type": "ADV"
+      },
+      {
+        "word": "showed",
+        "type": "V"
+      },
+      {
+        "word": "me",
+        "type": "PRON"
+      },
+      {
+        "word": "the",
+        "type": "AR"
+      },
+      {
+        "word": "nearest",
+        "type": "ADJ"
+      },
+      {
+        "word": "station",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "We are meeting our friends after work.",
+    "tokens": [
+      {
+        "word": "We",
+        "type": "PRON"
+      },
+      {
+        "word": "are",
+        "type": "V"
+      },
+      {
+        "word": "meeting",
+        "type": "V"
+      },
+      {
+        "word": "our",
+        "type": "DET"
+      },
+      {
+        "word": "friends",
+        "type": "N"
+      },
+      {
+        "word": "after",
+        "type": "P"
+      },
+      {
+        "word": "work",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "This restaurant serves delicious local food.",
+    "tokens": [
+      {
+        "word": "This",
+        "type": "DET"
+      },
+      {
+        "word": "restaurant",
+        "type": "N"
+      },
+      {
+        "word": "serves",
+        "type": "V"
+      },
+      {
+        "word": "delicious",
+        "type": "ADJ"
+      },
+      {
+        "word": "local",
+        "type": "ADJ"
+      },
+      {
+        "word": "food",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "I really appreciate your helpful advice.",
+    "tokens": [
+      {
+        "word": "I",
+        "type": "PRON"
+      },
+      {
+        "word": "really",
+        "type": "ADV"
+      },
+      {
+        "word": "appreciate",
+        "type": "V"
+      },
+      {
+        "word": "your",
+        "type": "DET"
+      },
+      {
+        "word": "helpful",
+        "type": "ADJ"
+      },
+      {
+        "word": "advice",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "They arrived late because the bus stopped.",
+    "tokens": [
+      {
+        "word": "They",
+        "type": "PRON"
+      },
+      {
+        "word": "arrived",
+        "type": "V"
+      },
+      {
+        "word": "late",
+        "type": "ADV"
+      },
+      {
+        "word": "because",
+        "type": "CONJ"
+      },
+      {
+        "word": "the",
+        "type": "AR"
+      },
+      {
+        "word": "bus",
+        "type": "N"
+      },
+      {
+        "word": "stopped",
+        "type": "V"
+      }
+    ]
+  },
+  {
+    "sentence": "Please send me the correct address.",
+    "tokens": [
+      {
+        "word": "Please",
+        "type": "ADV"
+      },
+      {
+        "word": "send",
+        "type": "V"
+      },
+      {
+        "word": "me",
+        "type": "PRON"
+      },
+      {
+        "word": "the",
+        "type": "AR"
+      },
+      {
+        "word": "correct",
+        "type": "ADJ"
+      },
+      {
+        "word": "address",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "My younger brother studies English online.",
+    "tokens": [
+      {
+        "word": "My",
+        "type": "DET"
+      },
+      {
+        "word": "younger",
+        "type": "ADJ"
+      },
+      {
+        "word": "brother",
+        "type": "N"
+      },
+      {
+        "word": "studies",
+        "type": "V"
+      },
+      {
+        "word": "English",
+        "type": "N"
+      },
+      {
+        "word": "online",
+        "type": "ADV"
+      }
+    ]
+  },
+  {
+    "sentence": "We should discuss this matter privately.",
+    "tokens": [
+      {
+        "word": "We",
+        "type": "PRON"
+      },
+      {
+        "word": "should",
+        "type": "V"
+      },
+      {
+        "word": "discuss",
+        "type": "V"
+      },
+      {
+        "word": "this",
+        "type": "DET"
+      },
+      {
+        "word": "matter",
+        "type": "N"
+      },
+      {
+        "word": "privately",
+        "type": "ADV"
+      }
+    ]
+  },
+  {
+    "sentence": "The weather became surprisingly cold today.",
+    "tokens": [
+      {
+        "word": "The",
+        "type": "AR"
+      },
+      {
+        "word": "weather",
+        "type": "N"
+      },
+      {
+        "word": "became",
+        "type": "V"
+      },
+      {
+        "word": "surprisingly",
+        "type": "ADV"
+      },
+      {
+        "word": "cold",
+        "type": "ADJ"
+      },
+      {
+        "word": "today",
+        "type": "ADV"
+      }
+    ]
+  },
+  {
+    "sentence": "I bought these fresh vegetables yesterday.",
+    "tokens": [
+      {
+        "word": "I",
+        "type": "PRON"
+      },
+      {
+        "word": "bought",
+        "type": "V"
+      },
+      {
+        "word": "these",
+        "type": "DET"
+      },
+      {
+        "word": "fresh",
+        "type": "ADJ"
+      },
+      {
+        "word": "vegetables",
+        "type": "N"
+      },
+      {
+        "word": "yesterday",
+        "type": "ADV"
+      }
+    ]
+  },
+  {
+    "sentence": "Can we choose a quieter place.",
+    "tokens": [
+      {
+        "word": "Can",
+        "type": "V"
+      },
+      {
+        "word": "we",
+        "type": "PRON"
+      },
+      {
+        "word": "choose",
+        "type": "V"
+      },
+      {
+        "word": "a",
+        "type": "AR"
+      },
+      {
+        "word": "quieter",
+        "type": "ADJ"
+      },
+      {
+        "word": "place",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "He politely refused their invitation.",
+    "tokens": [
+      {
+        "word": "He",
+        "type": "PRON"
+      },
+      {
+        "word": "politely",
+        "type": "ADV"
+      },
+      {
+        "word": "refused",
+        "type": "V"
+      },
+      {
+        "word": "their",
+        "type": "DET"
+      },
+      {
+        "word": "invitation",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Her explanation was clear and concise.",
+    "tokens": [
+      {
+        "word": "Her",
+        "type": "DET"
+      },
+      {
+        "word": "explanation",
+        "type": "N"
+      },
+      {
+        "word": "was",
+        "type": "V"
+      },
+      {
+        "word": "clear",
+        "type": "ADJ"
+      },
+      {
+        "word": "and",
+        "type": "CONJ"
+      },
+      {
+        "word": "concise",
+        "type": "ADJ"
+      }
+    ]
+  },
+  {
+    "sentence": "The movie was interesting but rather long.",
+    "tokens": [
+      {
+        "word": "The",
+        "type": "AR"
+      },
+      {
+        "word": "movie",
+        "type": "N"
+      },
+      {
+        "word": "was",
+        "type": "V"
+      },
+      {
+        "word": "interesting",
+        "type": "ADJ"
+      },
+      {
+        "word": "but",
+        "type": "CONJ"
+      },
+      {
+        "word": "rather",
+        "type": "ADV"
+      },
+      {
+        "word": "long",
+        "type": "ADJ"
+      }
+    ]
+  },
+  {
+    "sentence": "Everyone enjoyed the wonderful evening.",
+    "tokens": [
+      {
+        "word": "Everyone",
+        "type": "PRON"
+      },
+      {
+        "word": "enjoyed",
+        "type": "V"
+      },
+      {
+        "word": "the",
+        "type": "AR"
+      },
+      {
+        "word": "wonderful",
+        "type": "ADJ"
+      },
+      {
+        "word": "evening",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "I will probably call you later.",
+    "tokens": [
+      {
+        "word": "I",
+        "type": "PRON"
+      },
+      {
+        "word": "will",
+        "type": "V"
+      },
+      {
+        "word": "probably",
+        "type": "ADV"
+      },
+      {
+        "word": "call",
+        "type": "V"
+      },
+      {
+        "word": "you",
+        "type": "PRON"
+      },
+      {
+        "word": "later",
+        "type": "ADV"
+      }
+    ]
+  },
+  {
+    "sentence": "We need enough time for preparation.",
+    "tokens": [
+      {
+        "word": "We",
+        "type": "PRON"
+      },
+      {
+        "word": "need",
+        "type": "V"
+      },
+      {
+        "word": "enough",
+        "type": "DET"
+      },
+      {
+        "word": "time",
+        "type": "N"
+      },
+      {
+        "word": "for",
+        "type": "P"
+      },
+      {
+        "word": "preparation",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "She always answers difficult questions calmly.",
+    "tokens": [
+      {
+        "word": "She",
+        "type": "PRON"
+      },
+      {
+        "word": "always",
+        "type": "ADV"
+      },
+      {
+        "word": "answers",
+        "type": "V"
+      },
+      {
+        "word": "difficult",
+        "type": "ADJ"
+      },
+      {
+        "word": "questions",
+        "type": "N"
+      },
+      {
+        "word": "calmly",
+        "type": "ADV"
+      }
+    ]
+  }
+]

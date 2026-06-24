@@ -1,0 +1,287 @@
+[
+  {
+    "vietnamese": "ứng tuyển",
+    "english": "apply",
+    "forms": {
+      "verb": "apply",
+      "noun": "application",
+      "adjective": "applicable"
+    }
+  },
+  {
+    "vietnamese": "đủ điều kiện",
+    "english": "qualify",
+    "forms": {
+      "verb": "qualify",
+      "noun": "qualification",
+      "adjective": "qualified"
+    }
+  },
+  {
+    "vietnamese": "có kinh nghiệm",
+    "english": "experience",
+    "forms": {
+      "verb": "experience",
+      "noun": "experience",
+      "adjective": "experienced"
+    }
+  },
+  {
+    "vietnamese": "giáo dục",
+    "english": "educate",
+    "forms": {
+      "verb": "educate",
+      "noun": "education",
+      "adjective": "educational",
+      "adverb": "educationally"
+    }
+  },
+  {
+    "vietnamese": "đào tạo",
+    "english": "train",
+    "forms": {
+      "verb": "train",
+      "noun": "training",
+      "adjective": "trained"
+    }
+  },
+  {
+    "vietnamese": "học",
+    "english": "learn",
+    "forms": {
+      "verb": "learn",
+      "noun": "learning",
+      "adjective": "learned"
+    }
+  },
+  {
+    "vietnamese": "hiểu",
+    "english": "understand",
+    "forms": {
+      "verb": "understand",
+      "noun": "understanding",
+      "adjective": "understandable",
+      "adverb": "understandably"
+    }
+  },
+  {
+    "vietnamese": "biết",
+    "english": "know",
+    "forms": {
+      "verb": "know",
+      "noun": "knowledge",
+      "adjective": "knowledgeable",
+      "adverb": "knowledgeably"
+    }
+  },
+  {
+    "vietnamese": "giải quyết",
+    "english": "solve",
+    "forms": {
+      "verb": "solve",
+      "noun": "solution",
+      "adjective": "solvable"
+    }
+  },
+  {
+    "vietnamese": "phân tích",
+    "english": "analyze",
+    "forms": {
+      "verb": "analyze",
+      "noun": "analysis",
+      "adjective": "analytical",
+      "adverb": "analytically"
+    }
+  },
+  {
+    "vietnamese": "lý luận",
+    "english": "reason",
+    "forms": {
+      "verb": "reason",
+      "noun": "reason",
+      "adjective": "reasonable",
+      "adverb": "reasonably"
+    }
+  },
+  {
+    "vietnamese": "sáng tạo",
+    "english": "create",
+    "forms": {
+      "verb": "create",
+      "noun": "creation",
+      "adjective": "creative",
+      "adverb": "creatively"
+    }
+  },
+  {
+    "vietnamese": "tò mò",
+    "english": "inquire",
+    "forms": {
+      "verb": "inquire",
+      "noun": "inquiry",
+      "adjective": "inquisitive",
+      "adverb": "inquisitively"
+    }
+  },
+  {
+    "vietnamese": "tự tin",
+    "english": "confide",
+    "forms": {
+      "verb": "confide",
+      "noun": "confidence",
+      "adjective": "confident",
+      "adverb": "confidently"
+    }
+  },
+  {
+    "vietnamese": "trung thực",
+    "english": "honor",
+    "forms": {
+      "verb": "honor",
+      "noun": "honesty",
+      "adjective": "honest",
+      "adverb": "honestly"
+    }
+  },
+  {
+    "vietnamese": "độc lập",
+    "english": "independent",
+    "forms": {
+      "noun": "independence",
+      "adjective": "independent",
+      "adverb": "independently"
+    }
+  },
+  {
+    "vietnamese": "chủ động",
+    "english": "proactive",
+    "forms": {
+      "noun": "initiative",
+      "adjective": "proactive",
+      "adverb": "proactively"
+    }
+  },
+  {
+    "vietnamese": "kiên nhẫn",
+    "english": "patient",
+    "forms": {
+      "noun": "patience",
+      "adjective": "patient",
+      "adverb": "patiently"
+    }
+  },
+  {
+    "vietnamese": "cẩn thận",
+    "english": "care",
+    "forms": {
+      "verb": "care",
+      "noun": "care",
+      "adjective": "careful",
+      "adverb": "carefully"
+    }
+  },
+  {
+    "vietnamese": "chính xác",
+    "english": "accurate",
+    "forms": {
+      "noun": "accuracy",
+      "adjective": "accurate",
+      "adverb": "accurately"
+    }
+  },
+  {
+    "vietnamese": "cam kết",
+    "english": "commit",
+    "forms": {
+      "verb": "commit",
+      "noun": "commitment",
+      "adjective": "committed"
+    }
+  },
+  {
+    "vietnamese": "thích nghi",
+    "english": "adapt",
+    "forms": {
+      "verb": "adapt",
+      "noun": "adaptation",
+      "adjective": "adaptive",
+      "adverb": "adaptively"
+    }
+  },
+  {
+    "vietnamese": "thử thách",
+    "english": "challenge",
+    "forms": {
+      "verb": "challenge",
+      "noun": "challenge",
+      "adjective": "challenging"
+    }
+  },
+  {
+    "vietnamese": "đạt được",
+    "english": "achieve",
+    "forms": {
+      "verb": "achieve",
+      "noun": "achievement",
+      "adjective": "achievable"
+    }
+  },
+  {
+    "vietnamese": "chứng minh",
+    "english": "demonstrate",
+    "forms": {
+      "verb": "demonstrate",
+      "noun": "demonstration",
+      "adjective": "demonstrable",
+      "adverb": "demonstrably"
+    }
+  },
+  {
+    "vietnamese": "thuyết phục",
+    "english": "persuade",
+    "forms": {
+      "verb": "persuade",
+      "noun": "persuasion",
+      "adjective": "persuasive",
+      "adverb": "persuasively"
+    }
+  },
+  {
+    "vietnamese": "lãnh đạo",
+    "english": "lead",
+    "forms": {
+      "verb": "lead",
+      "noun": "leadership",
+      "adjective": "leading"
+    }
+  },
+  {
+    "vietnamese": "giao nhiệm vụ",
+    "english": "assign",
+    "forms": {
+      "verb": "assign",
+      "noun": "assignment",
+      "adjective": "assigned"
+    }
+  },
+  {
+    "vietnamese": "mong đợi",
+    "english": "expect",
+    "forms": {
+      "verb": "expect",
+      "noun": "expectation",
+      "adjective": "expected",
+      "adverb": "expectedly"
+    }
+  },
+  {
+    "vietnamese": "phù hợp",
+    "english": "suit",
+    "forms": {
+      "verb": "suit",
+      "noun": "suitability",
+      "adjective": "suitable",
+      "adverb": "suitably"
+    }
+  }
+]

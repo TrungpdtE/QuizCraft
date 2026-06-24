@@ -1,0 +1,602 @@
+[
+  {
+    "sentence": "The API validates every incoming request.",
+    "tokens": [
+      {
+        "word": "The",
+        "type": "AR"
+      },
+      {
+        "word": "API",
+        "type": "N"
+      },
+      {
+        "word": "validates",
+        "type": "V"
+      },
+      {
+        "word": "every",
+        "type": "DET"
+      },
+      {
+        "word": "incoming",
+        "type": "ADJ"
+      },
+      {
+        "word": "request",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Our middleware handles authentication globally.",
+    "tokens": [
+      {
+        "word": "Our",
+        "type": "DET"
+      },
+      {
+        "word": "middleware",
+        "type": "N"
+      },
+      {
+        "word": "handles",
+        "type": "V"
+      },
+      {
+        "word": "authentication",
+        "type": "N"
+      },
+      {
+        "word": "globally",
+        "type": "ADV"
+      }
+    ]
+  },
+  {
+    "sentence": "The database stores user information securely.",
+    "tokens": [
+      {
+        "word": "The",
+        "type": "AR"
+      },
+      {
+        "word": "database",
+        "type": "N"
+      },
+      {
+        "word": "stores",
+        "type": "V"
+      },
+      {
+        "word": "user",
+        "type": "N"
+      },
+      {
+        "word": "information",
+        "type": "N"
+      },
+      {
+        "word": "securely",
+        "type": "ADV"
+      }
+    ]
+  },
+  {
+    "sentence": "This endpoint returns a paginated response.",
+    "tokens": [
+      {
+        "word": "This",
+        "type": "DET"
+      },
+      {
+        "word": "endpoint",
+        "type": "N"
+      },
+      {
+        "word": "returns",
+        "type": "V"
+      },
+      {
+        "word": "a",
+        "type": "AR"
+      },
+      {
+        "word": "paginated",
+        "type": "ADJ"
+      },
+      {
+        "word": "response",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "We added an index to improve performance.",
+    "tokens": [
+      {
+        "word": "We",
+        "type": "PRON"
+      },
+      {
+        "word": "added",
+        "type": "V"
+      },
+      {
+        "word": "an",
+        "type": "AR"
+      },
+      {
+        "word": "index",
+        "type": "N"
+      },
+      {
+        "word": "to",
+        "type": "P"
+      },
+      {
+        "word": "improve",
+        "type": "V"
+      },
+      {
+        "word": "performance",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Concurrent transactions may cause unexpected conflicts.",
+    "tokens": [
+      {
+        "word": "Concurrent",
+        "type": "ADJ"
+      },
+      {
+        "word": "transactions",
+        "type": "N"
+      },
+      {
+        "word": "may",
+        "type": "V"
+      },
+      {
+        "word": "cause",
+        "type": "V"
+      },
+      {
+        "word": "unexpected",
+        "type": "ADJ"
+      },
+      {
+        "word": "conflicts",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "The application caches frequently requested data.",
+    "tokens": [
+      {
+        "word": "The",
+        "type": "AR"
+      },
+      {
+        "word": "application",
+        "type": "N"
+      },
+      {
+        "word": "caches",
+        "type": "V"
+      },
+      {
+        "word": "frequently",
+        "type": "ADV"
+      },
+      {
+        "word": "requested",
+        "type": "ADJ"
+      },
+      {
+        "word": "data",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Each service exposes a stable interface.",
+    "tokens": [
+      {
+        "word": "Each",
+        "type": "DET"
+      },
+      {
+        "word": "service",
+        "type": "N"
+      },
+      {
+        "word": "exposes",
+        "type": "V"
+      },
+      {
+        "word": "a",
+        "type": "AR"
+      },
+      {
+        "word": "stable",
+        "type": "ADJ"
+      },
+      {
+        "word": "interface",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "The worker processes background jobs asynchronously.",
+    "tokens": [
+      {
+        "word": "The",
+        "type": "AR"
+      },
+      {
+        "word": "worker",
+        "type": "N"
+      },
+      {
+        "word": "processes",
+        "type": "V"
+      },
+      {
+        "word": "background",
+        "type": "N"
+      },
+      {
+        "word": "jobs",
+        "type": "N"
+      },
+      {
+        "word": "asynchronously",
+        "type": "ADV"
+      }
+    ]
+  },
+  {
+    "sentence": "Our load balancer distributes traffic evenly.",
+    "tokens": [
+      {
+        "word": "Our",
+        "type": "DET"
+      },
+      {
+        "word": "load",
+        "type": "N"
+      },
+      {
+        "word": "balancer",
+        "type": "N"
+      },
+      {
+        "word": "distributes",
+        "type": "V"
+      },
+      {
+        "word": "traffic",
+        "type": "N"
+      },
+      {
+        "word": "evenly",
+        "type": "ADV"
+      }
+    ]
+  },
+  {
+    "sentence": "Database migrations should be reversible.",
+    "tokens": [
+      {
+        "word": "Database",
+        "type": "N"
+      },
+      {
+        "word": "migrations",
+        "type": "N"
+      },
+      {
+        "word": "should",
+        "type": "V"
+      },
+      {
+        "word": "be",
+        "type": "V"
+      },
+      {
+        "word": "reversible",
+        "type": "ADJ"
+      }
+    ]
+  },
+  {
+    "sentence": "The framework automatically serializes Python objects.",
+    "tokens": [
+      {
+        "word": "The",
+        "type": "AR"
+      },
+      {
+        "word": "framework",
+        "type": "N"
+      },
+      {
+        "word": "automatically",
+        "type": "ADV"
+      },
+      {
+        "word": "serializes",
+        "type": "V"
+      },
+      {
+        "word": "Python",
+        "type": "N"
+      },
+      {
+        "word": "objects",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "We use environment variables for sensitive configuration.",
+    "tokens": [
+      {
+        "word": "We",
+        "type": "PRON"
+      },
+      {
+        "word": "use",
+        "type": "V"
+      },
+      {
+        "word": "environment",
+        "type": "N"
+      },
+      {
+        "word": "variables",
+        "type": "N"
+      },
+      {
+        "word": "for",
+        "type": "P"
+      },
+      {
+        "word": "sensitive",
+        "type": "ADJ"
+      },
+      {
+        "word": "configuration",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "The server logged the failure with useful context.",
+    "tokens": [
+      {
+        "word": "The",
+        "type": "AR"
+      },
+      {
+        "word": "server",
+        "type": "N"
+      },
+      {
+        "word": "logged",
+        "type": "V"
+      },
+      {
+        "word": "the",
+        "type": "AR"
+      },
+      {
+        "word": "failure",
+        "type": "N"
+      },
+      {
+        "word": "with",
+        "type": "P"
+      },
+      {
+        "word": "useful",
+        "type": "ADJ"
+      },
+      {
+        "word": "context",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "A retry policy handles temporary network errors.",
+    "tokens": [
+      {
+        "word": "A",
+        "type": "AR"
+      },
+      {
+        "word": "retry",
+        "type": "N"
+      },
+      {
+        "word": "policy",
+        "type": "N"
+      },
+      {
+        "word": "handles",
+        "type": "V"
+      },
+      {
+        "word": "temporary",
+        "type": "ADJ"
+      },
+      {
+        "word": "network",
+        "type": "N"
+      },
+      {
+        "word": "errors",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "The repository separates business logic from routing.",
+    "tokens": [
+      {
+        "word": "The",
+        "type": "AR"
+      },
+      {
+        "word": "repository",
+        "type": "N"
+      },
+      {
+        "word": "separates",
+        "type": "V"
+      },
+      {
+        "word": "business",
+        "type": "N"
+      },
+      {
+        "word": "logic",
+        "type": "N"
+      },
+      {
+        "word": "from",
+        "type": "P"
+      },
+      {
+        "word": "routing",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Integration tests verify complete request flows.",
+    "tokens": [
+      {
+        "word": "Integration",
+        "type": "N"
+      },
+      {
+        "word": "tests",
+        "type": "N"
+      },
+      {
+        "word": "verify",
+        "type": "V"
+      },
+      {
+        "word": "complete",
+        "type": "ADJ"
+      },
+      {
+        "word": "request",
+        "type": "N"
+      },
+      {
+        "word": "flows",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "The deployment pipeline runs all tests automatically.",
+    "tokens": [
+      {
+        "word": "The",
+        "type": "AR"
+      },
+      {
+        "word": "deployment",
+        "type": "N"
+      },
+      {
+        "word": "pipeline",
+        "type": "N"
+      },
+      {
+        "word": "runs",
+        "type": "V"
+      },
+      {
+        "word": "all",
+        "type": "DET"
+      },
+      {
+        "word": "tests",
+        "type": "N"
+      },
+      {
+        "word": "automatically",
+        "type": "ADV"
+      }
+    ]
+  },
+  {
+    "sentence": "Proper monitoring detects performance degradation early.",
+    "tokens": [
+      {
+        "word": "Proper",
+        "type": "ADJ"
+      },
+      {
+        "word": "monitoring",
+        "type": "N"
+      },
+      {
+        "word": "detects",
+        "type": "V"
+      },
+      {
+        "word": "performance",
+        "type": "N"
+      },
+      {
+        "word": "degradation",
+        "type": "N"
+      },
+      {
+        "word": "early",
+        "type": "ADV"
+      }
+    ]
+  },
+  {
+    "sentence": "Horizontal scaling increases overall system capacity.",
+    "tokens": [
+      {
+        "word": "Horizontal",
+        "type": "ADJ"
+      },
+      {
+        "word": "scaling",
+        "type": "N"
+      },
+      {
+        "word": "increases",
+        "type": "V"
+      },
+      {
+        "word": "overall",
+        "type": "ADJ"
+      },
+      {
+        "word": "system",
+        "type": "N"
+      },
+      {
+        "word": "capacity",
+        "type": "N"
+      }
+    ]
+  }
+]

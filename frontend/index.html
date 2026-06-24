@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Ứng dụng luyện từ vựng và loại từ tiếng Anh" />
+    <title>English Practice</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="hero">
+        <div>
+          <p class="eyebrow">ENGLISH PRACTICE</p>
+          <h1>Học từng câu.<br />Nhớ từng từ.</h1>
+          <p class="subtitle">Word forms, word types và trắc nghiệm trong một nơi.</p>
+        </div>
+        <div class="hero-mark" aria-hidden="true">Aa</div>
+      </header>
+
+      <section id="setup-screen" class="panel">
+        <div class="step">
+          <span class="step-number">01</span>
+          <div class="step-content">
+            <h2>Chọn dạng bài</h2>
+            <div id="type-options" class="type-grid"></div>
+          </div>
+        </div>
+
+        <div class="step">
+          <span class="step-number">02</span>
+          <div class="step-content">
+            <label for="file-select">Chọn bài học</label>
+            <select id="file-select" disabled>
+              <option value="">Chọn dạng bài trước</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="step">
+          <span class="step-number">03</span>
+          <div class="step-content">
+            <span class="field-label">Thứ tự câu hỏi</span>
+            <div class="mode-switch">
+              <label><input type="radio" name="mode" value="sequential" checked /> Sequential</label>
+              <label><input type="radio" name="mode" value="random" /> Random</label>
+            </div>
+          </div>
+        </div>
+
+        <button id="start-btn" class="primary wide" disabled>Bắt đầu luyện tập <span>→</span></button>
+        <p id="setup-error" class="error-message" role="alert"></p>
+      </section>
+
+      <section id="exercise-screen" class="panel hidden">
+        <div class="session-topbar">
+          <button id="back-btn" class="text-button">← Chọn bài khác</button>
+          <div class="progress-copy"><span id="progress-current">1</span> / <span id="progress-total">0</span></div>
+        </div>
+        <div class="progress-track"><div id="progress-bar"></div></div>
+
+        <div class="scoreboard">
+          <div><strong id="score-correct">0</strong><span>Đúng</span></div>
+          <div><strong id="score-incorrect">0</strong><span>Sai</span></div>
+          <div><strong id="score-skipped">0</strong><span>Bỏ qua</span></div>
+        </div>
+
+        <div id="question-area" class="question-area"></div>
+        <div id="feedback" class="feedback hidden" aria-live="polite"></div>
+        <p id="exercise-error" class="error-message" role="alert"></p>
+
+        <div class="actions">
+          <button id="submit-btn" class="primary">Submit</button>
+          <button id="skip-btn" class="secondary">Skip</button>
+          <button id="answer-btn" class="secondary">Show Answer</button>
+          <button id="next-btn" class="primary hidden">Next <span>→</span></button>
+        </div>
+      </section>
+
+      <section id="complete-screen" class="panel complete hidden">
+        <div class="complete-icon">✓</div>
+        <p class="eyebrow">HOÀN THÀNH</p>
+        <h2>Bạn đã đi hết bài học.</h2>
+        <div id="final-score" class="final-score"></div>
+        <button id="restart-btn" class="primary">Chọn bài tiếp theo</button>
+      </section>
+    </main>
+    <script src="/app.js"></script>
+  </body>
+</html>

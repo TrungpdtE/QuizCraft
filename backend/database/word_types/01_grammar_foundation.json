@@ -1,0 +1,550 @@
+[
+  {
+    "sentence": "I am a backend engineering student.",
+    "tokens": [
+      {
+        "word": "I",
+        "type": "PRON"
+      },
+      {
+        "word": "am",
+        "type": "V"
+      },
+      {
+        "word": "a",
+        "type": "AR"
+      },
+      {
+        "word": "backend",
+        "type": "ADJ"
+      },
+      {
+        "word": "engineering",
+        "type": "N"
+      },
+      {
+        "word": "student",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "She writes clean code every day.",
+    "tokens": [
+      {
+        "word": "She",
+        "type": "PRON"
+      },
+      {
+        "word": "writes",
+        "type": "V"
+      },
+      {
+        "word": "clean",
+        "type": "ADJ"
+      },
+      {
+        "word": "code",
+        "type": "N"
+      },
+      {
+        "word": "every",
+        "type": "DET"
+      },
+      {
+        "word": "day",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "The server is currently available.",
+    "tokens": [
+      {
+        "word": "The",
+        "type": "AR"
+      },
+      {
+        "word": "server",
+        "type": "N"
+      },
+      {
+        "word": "is",
+        "type": "V"
+      },
+      {
+        "word": "currently",
+        "type": "ADV"
+      },
+      {
+        "word": "available",
+        "type": "ADJ"
+      }
+    ]
+  },
+  {
+    "sentence": "These APIs return structured responses.",
+    "tokens": [
+      {
+        "word": "These",
+        "type": "DET"
+      },
+      {
+        "word": "APIs",
+        "type": "N"
+      },
+      {
+        "word": "return",
+        "type": "V"
+      },
+      {
+        "word": "structured",
+        "type": "ADJ"
+      },
+      {
+        "word": "responses",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "We carefully review each assignment.",
+    "tokens": [
+      {
+        "word": "We",
+        "type": "PRON"
+      },
+      {
+        "word": "carefully",
+        "type": "ADV"
+      },
+      {
+        "word": "review",
+        "type": "V"
+      },
+      {
+        "word": "each",
+        "type": "DET"
+      },
+      {
+        "word": "assignment",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "An experienced engineer explained the issue.",
+    "tokens": [
+      {
+        "word": "An",
+        "type": "AR"
+      },
+      {
+        "word": "experienced",
+        "type": "ADJ"
+      },
+      {
+        "word": "engineer",
+        "type": "N"
+      },
+      {
+        "word": "explained",
+        "type": "V"
+      },
+      {
+        "word": "the",
+        "type": "AR"
+      },
+      {
+        "word": "issue",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "My application runs smoothly on Linux.",
+    "tokens": [
+      {
+        "word": "My",
+        "type": "DET"
+      },
+      {
+        "word": "application",
+        "type": "N"
+      },
+      {
+        "word": "runs",
+        "type": "V"
+      },
+      {
+        "word": "smoothly",
+        "type": "ADV"
+      },
+      {
+        "word": "on",
+        "type": "P"
+      },
+      {
+        "word": "Linux",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "The new feature looks extremely useful.",
+    "tokens": [
+      {
+        "word": "The",
+        "type": "AR"
+      },
+      {
+        "word": "new",
+        "type": "ADJ"
+      },
+      {
+        "word": "feature",
+        "type": "N"
+      },
+      {
+        "word": "looks",
+        "type": "V"
+      },
+      {
+        "word": "extremely",
+        "type": "ADV"
+      },
+      {
+        "word": "useful",
+        "type": "ADJ"
+      }
+    ]
+  },
+  {
+    "sentence": "They solved the difficult problem quickly.",
+    "tokens": [
+      {
+        "word": "They",
+        "type": "PRON"
+      },
+      {
+        "word": "solved",
+        "type": "V"
+      },
+      {
+        "word": "the",
+        "type": "AR"
+      },
+      {
+        "word": "difficult",
+        "type": "ADJ"
+      },
+      {
+        "word": "problem",
+        "type": "N"
+      },
+      {
+        "word": "quickly",
+        "type": "ADV"
+      }
+    ]
+  },
+  {
+    "sentence": "Our team needs a reliable database.",
+    "tokens": [
+      {
+        "word": "Our",
+        "type": "DET"
+      },
+      {
+        "word": "team",
+        "type": "N"
+      },
+      {
+        "word": "needs",
+        "type": "V"
+      },
+      {
+        "word": "a",
+        "type": "AR"
+      },
+      {
+        "word": "reliable",
+        "type": "ADJ"
+      },
+      {
+        "word": "database",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "He tested the endpoint before deployment.",
+    "tokens": [
+      {
+        "word": "He",
+        "type": "PRON"
+      },
+      {
+        "word": "tested",
+        "type": "V"
+      },
+      {
+        "word": "the",
+        "type": "AR"
+      },
+      {
+        "word": "endpoint",
+        "type": "N"
+      },
+      {
+        "word": "before",
+        "type": "P"
+      },
+      {
+        "word": "deployment",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "This simple script processes files automatically.",
+    "tokens": [
+      {
+        "word": "This",
+        "type": "DET"
+      },
+      {
+        "word": "simple",
+        "type": "ADJ"
+      },
+      {
+        "word": "script",
+        "type": "N"
+      },
+      {
+        "word": "processes",
+        "type": "V"
+      },
+      {
+        "word": "files",
+        "type": "N"
+      },
+      {
+        "word": "automatically",
+        "type": "ADV"
+      }
+    ]
+  },
+  {
+    "sentence": "Users can access the service securely.",
+    "tokens": [
+      {
+        "word": "Users",
+        "type": "N"
+      },
+      {
+        "word": "can",
+        "type": "V"
+      },
+      {
+        "word": "access",
+        "type": "V"
+      },
+      {
+        "word": "the",
+        "type": "AR"
+      },
+      {
+        "word": "service",
+        "type": "N"
+      },
+      {
+        "word": "securely",
+        "type": "ADV"
+      }
+    ]
+  },
+  {
+    "sentence": "The client sent another request.",
+    "tokens": [
+      {
+        "word": "The",
+        "type": "AR"
+      },
+      {
+        "word": "client",
+        "type": "N"
+      },
+      {
+        "word": "sent",
+        "type": "V"
+      },
+      {
+        "word": "another",
+        "type": "DET"
+      },
+      {
+        "word": "request",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Some queries consume excessive memory.",
+    "tokens": [
+      {
+        "word": "Some",
+        "type": "DET"
+      },
+      {
+        "word": "queries",
+        "type": "N"
+      },
+      {
+        "word": "consume",
+        "type": "V"
+      },
+      {
+        "word": "excessive",
+        "type": "ADJ"
+      },
+      {
+        "word": "memory",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Python supports modern asynchronous programming.",
+    "tokens": [
+      {
+        "word": "Python",
+        "type": "N"
+      },
+      {
+        "word": "supports",
+        "type": "V"
+      },
+      {
+        "word": "modern",
+        "type": "ADJ"
+      },
+      {
+        "word": "asynchronous",
+        "type": "ADJ"
+      },
+      {
+        "word": "programming",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "The worker completed its task successfully.",
+    "tokens": [
+      {
+        "word": "The",
+        "type": "AR"
+      },
+      {
+        "word": "worker",
+        "type": "N"
+      },
+      {
+        "word": "completed",
+        "type": "V"
+      },
+      {
+        "word": "its",
+        "type": "DET"
+      },
+      {
+        "word": "task",
+        "type": "N"
+      },
+      {
+        "word": "successfully",
+        "type": "ADV"
+      }
+    ]
+  },
+  {
+    "sentence": "We found several critical bugs.",
+    "tokens": [
+      {
+        "word": "We",
+        "type": "PRON"
+      },
+      {
+        "word": "found",
+        "type": "V"
+      },
+      {
+        "word": "several",
+        "type": "DET"
+      },
+      {
+        "word": "critical",
+        "type": "ADJ"
+      },
+      {
+        "word": "bugs",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Each container has an isolated environment.",
+    "tokens": [
+      {
+        "word": "Each",
+        "type": "DET"
+      },
+      {
+        "word": "container",
+        "type": "N"
+      },
+      {
+        "word": "has",
+        "type": "V"
+      },
+      {
+        "word": "an",
+        "type": "AR"
+      },
+      {
+        "word": "isolated",
+        "type": "ADJ"
+      },
+      {
+        "word": "environment",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Good documentation helps new developers.",
+    "tokens": [
+      {
+        "word": "Good",
+        "type": "ADJ"
+      },
+      {
+        "word": "documentation",
+        "type": "N"
+      },
+      {
+        "word": "helps",
+        "type": "V"
+      },
+      {
+        "word": "new",
+        "type": "ADJ"
+      },
+      {
+        "word": "developers",
+        "type": "N"
+      }
+    ]
+  }
+]

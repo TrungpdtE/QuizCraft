@@ -1,0 +1,45 @@
+{
+  "sentence": "The newly implemented caching mechanism significantly reduces database load.",
+  "tokens": [
+    {"word": "The", "type": "AR"},
+    {"word": "newly", "type": "ADV"},
+    {"word": "implemented", "type": "ADJ"},
+    {"word": "caching", "type": "N"},
+    {"word": "mechanism", "type": "N"},
+    {"word": "significantly", "type": "ADV"},
+    {"word": "reduces", "type": "V"},
+    {"word": "database", "type": "N"},
+    {"word": "load", "type": "N"}
+  ]
+}
+
+{
+  "sentence": "She carefully placed the old book on the wooden table.",
+  "tokens": [
+    {"word": "She", "type": "PRON"},
+    {"word": "carefully", "type": "ADV"},
+    {"word": "placed", "type": "V"},
+    {"word": "the", "type": "AR"},
+    {"word": "old", "type": "ADJ"},
+    {"word": "book", "type": "N"},
+    {"word": "on", "type": "P"},
+    {"word": "the", "type": "AR"},
+    {"word": "wooden", "type": "ADJ"},
+    {"word": "table", "type": "N"}
+  ]
+}
+
+{
+  "sentence": "These students study hard because they want better results.",
+  "tokens": [
+    {"word": "These", "type": "DET"},
+    {"word": "students", "type": "N"},
+    {"word": "study", "type": "V"},
+    {"word": "hard", "type": "ADV"},
+    {"word": "because", "type": "CONJ"},
+    {"word": "they", "type": "PRON"},
+    {"word": "want", "type": "V"},
+    {"word": "better", "type": "ADJ"},
+    {"word": "results", "type": "N"}
+  ]
+}

@@ -1,0 +1,284 @@
+[
+  {
+    "vietnamese": "tổ chức",
+    "english": "organize",
+    "forms": {
+      "verb": "organize",
+      "noun": "organization",
+      "adjective": "organizational",
+      "adverb": "organizationally"
+    }
+  },
+  {
+    "vietnamese": "quản lý",
+    "english": "manage",
+    "forms": {
+      "verb": "manage",
+      "noun": "management",
+      "adjective": "managerial"
+    }
+  },
+  {
+    "vietnamese": "lập kế hoạch",
+    "english": "plan",
+    "forms": {
+      "verb": "plan",
+      "noun": "plan",
+      "adjective": "planned"
+    }
+  },
+  {
+    "vietnamese": "chuẩn bị",
+    "english": "prepare",
+    "forms": {
+      "verb": "prepare",
+      "noun": "preparation",
+      "adjective": "prepared"
+    }
+  },
+  {
+    "vietnamese": "tham gia",
+    "english": "participate",
+    "forms": {
+      "verb": "participate",
+      "noun": "participation",
+      "adjective": "participatory"
+    }
+  },
+  {
+    "vietnamese": "hợp tác",
+    "english": "collaborate",
+    "forms": {
+      "verb": "collaborate",
+      "noun": "collaboration",
+      "adjective": "collaborative",
+      "adverb": "collaboratively"
+    }
+  },
+  {
+    "vietnamese": "đóng góp",
+    "english": "contribute",
+    "forms": {
+      "verb": "contribute",
+      "noun": "contribution",
+      "adjective": "contributory"
+    }
+  },
+  {
+    "vietnamese": "hỗ trợ",
+    "english": "support",
+    "forms": {
+      "verb": "support",
+      "noun": "support",
+      "adjective": "supportive",
+      "adverb": "supportively"
+    }
+  },
+  {
+    "vietnamese": "phản hồi",
+    "english": "respond",
+    "forms": {
+      "verb": "respond",
+      "noun": "response",
+      "adjective": "responsive",
+      "adverb": "responsively"
+    }
+  },
+  {
+    "vietnamese": "báo cáo",
+    "english": "report",
+    "forms": {
+      "verb": "report",
+      "noun": "report",
+      "adjective": "reportable"
+    }
+  },
+  {
+    "vietnamese": "trình bày",
+    "english": "present",
+    "forms": {
+      "verb": "present",
+      "noun": "presentation",
+      "adjective": "presentable"
+    }
+  },
+  {
+    "vietnamese": "đàm phán",
+    "english": "negotiate",
+    "forms": {
+      "verb": "negotiate",
+      "noun": "negotiation",
+      "adjective": "negotiable"
+    }
+  },
+  {
+    "vietnamese": "ưu tiên",
+    "english": "prioritize",
+    "forms": {
+      "verb": "prioritize",
+      "noun": "priority",
+      "adjective": "prioritized"
+    }
+  },
+  {
+    "vietnamese": "lên lịch",
+    "english": "schedule",
+    "forms": {
+      "verb": "schedule",
+      "noun": "schedule",
+      "adjective": "scheduled"
+    }
+  },
+  {
+    "vietnamese": "hoàn thành",
+    "english": "complete",
+    "forms": {
+      "verb": "complete",
+      "noun": "completion",
+      "adjective": "complete",
+      "adverb": "completely"
+    }
+  },
+  {
+    "vietnamese": "tiếp tục",
+    "english": "continue",
+    "forms": {
+      "verb": "continue",
+      "noun": "continuation",
+      "adjective": "continuous",
+      "adverb": "continuously"
+    }
+  },
+  {
+    "vietnamese": "tiến bộ",
+    "english": "progress",
+    "forms": {
+      "verb": "progress",
+      "noun": "progress",
+      "adjective": "progressive",
+      "adverb": "progressively"
+    }
+  },
+  {
+    "vietnamese": "thành công",
+    "english": "succeed",
+    "forms": {
+      "verb": "succeed",
+      "noun": "success",
+      "adjective": "successful",
+      "adverb": "successfully"
+    }
+  },
+  {
+    "vietnamese": "thất bại",
+    "english": "fail",
+    "forms": {
+      "verb": "fail",
+      "noun": "failure",
+      "adjective": "failed"
+    }
+  },
+  {
+    "vietnamese": "cải thiện",
+    "english": "improve",
+    "forms": {
+      "verb": "improve",
+      "noun": "improvement",
+      "adjective": "improved"
+    }
+  },
+  {
+    "vietnamese": "phát triển",
+    "english": "develop",
+    "forms": {
+      "verb": "develop",
+      "noun": "development",
+      "adjective": "developmental"
+    }
+  },
+  {
+    "vietnamese": "đánh giá",
+    "english": "evaluate",
+    "forms": {
+      "verb": "evaluate",
+      "noun": "evaluation",
+      "adjective": "evaluative"
+    }
+  },
+  {
+    "vietnamese": "đo lường",
+    "english": "measure",
+    "forms": {
+      "verb": "measure",
+      "noun": "measurement",
+      "adjective": "measurable",
+      "adverb": "measurably"
+    }
+  },
+  {
+    "vietnamese": "chịu trách nhiệm",
+    "english": "responsible",
+    "forms": {
+      "noun": "responsibility",
+      "adjective": "responsible",
+      "adverb": "responsibly"
+    }
+  },
+  {
+    "vietnamese": "chuyên nghiệp",
+    "english": "professional",
+    "forms": {
+      "noun": "profession",
+      "adjective": "professional",
+      "adverb": "professionally"
+    }
+  },
+  {
+    "vietnamese": "hiệu quả",
+    "english": "effective",
+    "forms": {
+      "noun": "effectiveness",
+      "adjective": "effective",
+      "adverb": "effectively"
+    }
+  },
+  {
+    "vietnamese": "hiệu suất",
+    "english": "perform",
+    "forms": {
+      "verb": "perform",
+      "noun": "performance",
+      "adjective": "performant"
+    }
+  },
+  {
+    "vietnamese": "năng suất",
+    "english": "produce",
+    "forms": {
+      "verb": "produce",
+      "noun": "productivity",
+      "adjective": "productive",
+      "adverb": "productively"
+    }
+  },
+  {
+    "vietnamese": "linh hoạt",
+    "english": "adapt",
+    "forms": {
+      "verb": "adapt",
+      "noun": "adaptability",
+      "adjective": "adaptable",
+      "adverb": "adaptably"
+    }
+  },
+  {
+    "vietnamese": "đáng tin cậy",
+    "english": "rely",
+    "forms": {
+      "verb": "rely",
+      "noun": "reliability",
+      "adjective": "reliable",
+      "adverb": "reliably"
+    }
+  }
+]

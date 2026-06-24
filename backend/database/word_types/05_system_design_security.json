@@ -1,0 +1,614 @@
+[
+  {
+    "sentence": "A distributed system contains multiple independent nodes.",
+    "tokens": [
+      {
+        "word": "A",
+        "type": "AR"
+      },
+      {
+        "word": "distributed",
+        "type": "ADJ"
+      },
+      {
+        "word": "system",
+        "type": "N"
+      },
+      {
+        "word": "contains",
+        "type": "V"
+      },
+      {
+        "word": "multiple",
+        "type": "ADJ"
+      },
+      {
+        "word": "independent",
+        "type": "ADJ"
+      },
+      {
+        "word": "nodes",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Strong consistency usually increases coordination cost.",
+    "tokens": [
+      {
+        "word": "Strong",
+        "type": "ADJ"
+      },
+      {
+        "word": "consistency",
+        "type": "N"
+      },
+      {
+        "word": "usually",
+        "type": "ADV"
+      },
+      {
+        "word": "increases",
+        "type": "V"
+      },
+      {
+        "word": "coordination",
+        "type": "N"
+      },
+      {
+        "word": "cost",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "The queue temporarily stores unprocessed messages.",
+    "tokens": [
+      {
+        "word": "The",
+        "type": "AR"
+      },
+      {
+        "word": "queue",
+        "type": "N"
+      },
+      {
+        "word": "temporarily",
+        "type": "ADV"
+      },
+      {
+        "word": "stores",
+        "type": "V"
+      },
+      {
+        "word": "unprocessed",
+        "type": "ADJ"
+      },
+      {
+        "word": "messages",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Consumers read events from separate partitions.",
+    "tokens": [
+      {
+        "word": "Consumers",
+        "type": "N"
+      },
+      {
+        "word": "read",
+        "type": "V"
+      },
+      {
+        "word": "events",
+        "type": "N"
+      },
+      {
+        "word": "from",
+        "type": "P"
+      },
+      {
+        "word": "separate",
+        "type": "ADJ"
+      },
+      {
+        "word": "partitions",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Replication improves availability during hardware failures.",
+    "tokens": [
+      {
+        "word": "Replication",
+        "type": "N"
+      },
+      {
+        "word": "improves",
+        "type": "V"
+      },
+      {
+        "word": "availability",
+        "type": "N"
+      },
+      {
+        "word": "during",
+        "type": "P"
+      },
+      {
+        "word": "hardware",
+        "type": "N"
+      },
+      {
+        "word": "failures",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Rate limiting protects public endpoints from abuse.",
+    "tokens": [
+      {
+        "word": "Rate",
+        "type": "N"
+      },
+      {
+        "word": "limiting",
+        "type": "N"
+      },
+      {
+        "word": "protects",
+        "type": "V"
+      },
+      {
+        "word": "public",
+        "type": "ADJ"
+      },
+      {
+        "word": "endpoints",
+        "type": "N"
+      },
+      {
+        "word": "from",
+        "type": "P"
+      },
+      {
+        "word": "abuse",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "The gateway routes external traffic to internal services.",
+    "tokens": [
+      {
+        "word": "The",
+        "type": "AR"
+      },
+      {
+        "word": "gateway",
+        "type": "N"
+      },
+      {
+        "word": "routes",
+        "type": "V"
+      },
+      {
+        "word": "external",
+        "type": "ADJ"
+      },
+      {
+        "word": "traffic",
+        "type": "N"
+      },
+      {
+        "word": "to",
+        "type": "P"
+      },
+      {
+        "word": "internal",
+        "type": "ADJ"
+      },
+      {
+        "word": "services",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Encrypted connections prevent accidental data exposure.",
+    "tokens": [
+      {
+        "word": "Encrypted",
+        "type": "ADJ"
+      },
+      {
+        "word": "connections",
+        "type": "N"
+      },
+      {
+        "word": "prevent",
+        "type": "V"
+      },
+      {
+        "word": "accidental",
+        "type": "ADJ"
+      },
+      {
+        "word": "data",
+        "type": "N"
+      },
+      {
+        "word": "exposure",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Authorization determines which resources users can access.",
+    "tokens": [
+      {
+        "word": "Authorization",
+        "type": "N"
+      },
+      {
+        "word": "determines",
+        "type": "V"
+      },
+      {
+        "word": "which",
+        "type": "DET"
+      },
+      {
+        "word": "resources",
+        "type": "N"
+      },
+      {
+        "word": "users",
+        "type": "N"
+      },
+      {
+        "word": "can",
+        "type": "V"
+      },
+      {
+        "word": "access",
+        "type": "V"
+      }
+    ]
+  },
+  {
+    "sentence": "We never store plain passwords directly.",
+    "tokens": [
+      {
+        "word": "We",
+        "type": "PRON"
+      },
+      {
+        "word": "never",
+        "type": "ADV"
+      },
+      {
+        "word": "store",
+        "type": "V"
+      },
+      {
+        "word": "plain",
+        "type": "ADJ"
+      },
+      {
+        "word": "passwords",
+        "type": "N"
+      },
+      {
+        "word": "directly",
+        "type": "ADV"
+      }
+    ]
+  },
+  {
+    "sentence": "Idempotent operations safely support repeated requests.",
+    "tokens": [
+      {
+        "word": "Idempotent",
+        "type": "ADJ"
+      },
+      {
+        "word": "operations",
+        "type": "N"
+      },
+      {
+        "word": "safely",
+        "type": "ADV"
+      },
+      {
+        "word": "support",
+        "type": "V"
+      },
+      {
+        "word": "repeated",
+        "type": "ADJ"
+      },
+      {
+        "word": "requests",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Eventual consistency allows temporary differences between replicas.",
+    "tokens": [
+      {
+        "word": "Eventual",
+        "type": "ADJ"
+      },
+      {
+        "word": "consistency",
+        "type": "N"
+      },
+      {
+        "word": "allows",
+        "type": "V"
+      },
+      {
+        "word": "temporary",
+        "type": "ADJ"
+      },
+      {
+        "word": "differences",
+        "type": "N"
+      },
+      {
+        "word": "between",
+        "type": "P"
+      },
+      {
+        "word": "replicas",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "A circuit breaker prevents cascading failures.",
+    "tokens": [
+      {
+        "word": "A",
+        "type": "AR"
+      },
+      {
+        "word": "circuit",
+        "type": "N"
+      },
+      {
+        "word": "breaker",
+        "type": "N"
+      },
+      {
+        "word": "prevents",
+        "type": "V"
+      },
+      {
+        "word": "cascading",
+        "type": "ADJ"
+      },
+      {
+        "word": "failures",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Health checks continuously monitor service availability.",
+    "tokens": [
+      {
+        "word": "Health",
+        "type": "N"
+      },
+      {
+        "word": "checks",
+        "type": "N"
+      },
+      {
+        "word": "continuously",
+        "type": "ADV"
+      },
+      {
+        "word": "monitor",
+        "type": "V"
+      },
+      {
+        "word": "service",
+        "type": "N"
+      },
+      {
+        "word": "availability",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Backups enable recovery after serious incidents.",
+    "tokens": [
+      {
+        "word": "Backups",
+        "type": "N"
+      },
+      {
+        "word": "enable",
+        "type": "V"
+      },
+      {
+        "word": "recovery",
+        "type": "N"
+      },
+      {
+        "word": "after",
+        "type": "P"
+      },
+      {
+        "word": "serious",
+        "type": "ADJ"
+      },
+      {
+        "word": "incidents",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Observability combines logs metrics and traces.",
+    "tokens": [
+      {
+        "word": "Observability",
+        "type": "N"
+      },
+      {
+        "word": "combines",
+        "type": "V"
+      },
+      {
+        "word": "logs",
+        "type": "N"
+      },
+      {
+        "word": "metrics",
+        "type": "N"
+      },
+      {
+        "word": "and",
+        "type": "CONJ"
+      },
+      {
+        "word": "traces",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "The cache reduces repeated database queries significantly.",
+    "tokens": [
+      {
+        "word": "The",
+        "type": "AR"
+      },
+      {
+        "word": "cache",
+        "type": "N"
+      },
+      {
+        "word": "reduces",
+        "type": "V"
+      },
+      {
+        "word": "repeated",
+        "type": "ADJ"
+      },
+      {
+        "word": "database",
+        "type": "N"
+      },
+      {
+        "word": "queries",
+        "type": "N"
+      },
+      {
+        "word": "significantly",
+        "type": "ADV"
+      }
+    ]
+  },
+  {
+    "sentence": "Message brokers decouple producers from consumers.",
+    "tokens": [
+      {
+        "word": "Message",
+        "type": "N"
+      },
+      {
+        "word": "brokers",
+        "type": "N"
+      },
+      {
+        "word": "decouple",
+        "type": "V"
+      },
+      {
+        "word": "producers",
+        "type": "N"
+      },
+      {
+        "word": "from",
+        "type": "P"
+      },
+      {
+        "word": "consumers",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Secure systems follow the least privilege principle.",
+    "tokens": [
+      {
+        "word": "Secure",
+        "type": "ADJ"
+      },
+      {
+        "word": "systems",
+        "type": "N"
+      },
+      {
+        "word": "follow",
+        "type": "V"
+      },
+      {
+        "word": "the",
+        "type": "AR"
+      },
+      {
+        "word": "least",
+        "type": "ADJ"
+      },
+      {
+        "word": "privilege",
+        "type": "N"
+      },
+      {
+        "word": "principle",
+        "type": "N"
+      }
+    ]
+  },
+  {
+    "sentence": "Regular audits identify hidden security risks.",
+    "tokens": [
+      {
+        "word": "Regular",
+        "type": "ADJ"
+      },
+      {
+        "word": "audits",
+        "type": "N"
+      },
+      {
+        "word": "identify",
+        "type": "V"
+      },
+      {
+        "word": "hidden",
+        "type": "ADJ"
+      },
+      {
+        "word": "security",
+        "type": "N"
+      },
+      {
+        "word": "risks",
+        "type": "N"
+      }
+    ]
+  }
+]

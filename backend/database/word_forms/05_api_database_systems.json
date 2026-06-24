@@ -1,0 +1,277 @@
+[
+  {
+    "vietnamese": "kết nối",
+    "english": "connect",
+    "forms": {
+      "verb": "connect",
+      "noun": "connection",
+      "adjective": "connected"
+    }
+  },
+  {
+    "vietnamese": "ngắt kết nối",
+    "english": "disconnect",
+    "forms": {
+      "verb": "disconnect",
+      "noun": "disconnection",
+      "adjective": "disconnected"
+    }
+  },
+  {
+    "vietnamese": "gửi",
+    "english": "transmit",
+    "forms": {
+      "verb": "transmit",
+      "noun": "transmission",
+      "adjective": "transmissible"
+    }
+  },
+  {
+    "vietnamese": "nhận",
+    "english": "receive",
+    "forms": {
+      "verb": "receive",
+      "noun": "receipt",
+      "adjective": "receptive",
+      "adverb": "receptively"
+    }
+  },
+  {
+    "vietnamese": "yêu cầu",
+    "english": "request",
+    "forms": {
+      "verb": "request",
+      "noun": "request",
+      "adjective": "requested"
+    }
+  },
+  {
+    "vietnamese": "phản hồi",
+    "english": "respond",
+    "forms": {
+      "verb": "respond",
+      "noun": "response",
+      "adjective": "responsive",
+      "adverb": "responsively"
+    }
+  },
+  {
+    "vietnamese": "định tuyến",
+    "english": "route",
+    "forms": {
+      "verb": "route",
+      "noun": "route",
+      "adjective": "routable"
+    }
+  },
+  {
+    "vietnamese": "phân trang",
+    "english": "paginate",
+    "forms": {
+      "verb": "paginate",
+      "noun": "pagination",
+      "adjective": "paginated"
+    }
+  },
+  {
+    "vietnamese": "lọc",
+    "english": "filter",
+    "forms": {
+      "verb": "filter",
+      "noun": "filter",
+      "adjective": "filterable"
+    }
+  },
+  {
+    "vietnamese": "sắp xếp",
+    "english": "sort",
+    "forms": {
+      "verb": "sort",
+      "noun": "sort",
+      "adjective": "sortable"
+    }
+  },
+  {
+    "vietnamese": "tuần tự hóa",
+    "english": "serialize",
+    "forms": {
+      "verb": "serialize",
+      "noun": "serialization",
+      "adjective": "serializable"
+    }
+  },
+  {
+    "vietnamese": "chuẩn hóa",
+    "english": "normalize",
+    "forms": {
+      "verb": "normalize",
+      "noun": "normalization",
+      "adjective": "normalized"
+    }
+  },
+  {
+    "vietnamese": "phi chuẩn hóa",
+    "english": "denormalize",
+    "forms": {
+      "verb": "denormalize",
+      "noun": "denormalization",
+      "adjective": "denormalized"
+    }
+  },
+  {
+    "vietnamese": "giao dịch",
+    "english": "transact",
+    "forms": {
+      "verb": "transact",
+      "noun": "transaction",
+      "adjective": "transactional",
+      "adverb": "transactionally"
+    }
+  },
+  {
+    "vietnamese": "cam kết dữ liệu",
+    "english": "commit",
+    "forms": {
+      "verb": "commit",
+      "noun": "commitment",
+      "adjective": "committed"
+    }
+  },
+  {
+    "vietnamese": "khôi phục giao dịch",
+    "english": "roll back",
+    "forms": {
+      "verb": "roll back",
+      "noun": "rollback"
+    }
+  },
+  {
+    "vietnamese": "khóa",
+    "english": "lock",
+    "forms": {
+      "verb": "lock",
+      "noun": "lock",
+      "adjective": "locked"
+    }
+  },
+  {
+    "vietnamese": "giới hạn",
+    "english": "limit",
+    "forms": {
+      "verb": "limit",
+      "noun": "limitation",
+      "adjective": "limited"
+    }
+  },
+  {
+    "vietnamese": "phân phối",
+    "english": "distribute",
+    "forms": {
+      "verb": "distribute",
+      "noun": "distribution",
+      "adjective": "distributed"
+    }
+  },
+  {
+    "vietnamese": "cân bằng",
+    "english": "balance",
+    "forms": {
+      "verb": "balance",
+      "noun": "balance",
+      "adjective": "balanced"
+    }
+  },
+  {
+    "vietnamese": "phân vùng",
+    "english": "partition",
+    "forms": {
+      "verb": "partition",
+      "noun": "partition",
+      "adjective": "partitioned"
+    }
+  },
+  {
+    "vietnamese": "sao chép",
+    "english": "replicate",
+    "forms": {
+      "verb": "replicate",
+      "noun": "replication",
+      "adjective": "replicated"
+    }
+  },
+  {
+    "vietnamese": "tương thích",
+    "english": "compatible",
+    "forms": {
+      "noun": "compatibility",
+      "adjective": "compatible",
+      "adverb": "compatibly"
+    }
+  },
+  {
+    "vietnamese": "không tương thích",
+    "english": "incompatible",
+    "forms": {
+      "noun": "incompatibility",
+      "adjective": "incompatible",
+      "adverb": "incompatibly"
+    }
+  },
+  {
+    "vietnamese": "khả dụng",
+    "english": "use",
+    "forms": {
+      "verb": "use",
+      "noun": "usability",
+      "adjective": "usable",
+      "adverb": "usably"
+    }
+  },
+  {
+    "vietnamese": "truy cập",
+    "english": "access",
+    "forms": {
+      "verb": "access",
+      "noun": "access",
+      "adjective": "accessible",
+      "adverb": "accessibly"
+    }
+  },
+  {
+    "vietnamese": "bảo vệ",
+    "english": "protect",
+    "forms": {
+      "verb": "protect",
+      "noun": "protection",
+      "adjective": "protective",
+      "adverb": "protectively"
+    }
+  },
+  {
+    "vietnamese": "tiêu thụ",
+    "english": "consume",
+    "forms": {
+      "verb": "consume",
+      "noun": "consumption",
+      "adjective": "consumable"
+    }
+  },
+  {
+    "vietnamese": "cung cấp",
+    "english": "provide",
+    "forms": {
+      "verb": "provide",
+      "noun": "provision",
+      "adjective": "provided"
+    }
+  },
+  {
+    "vietnamese": "đăng ký",
+    "english": "subscribe",
+    "forms": {
+      "verb": "subscribe",
+      "noun": "subscription",
+      "adjective": "subscribed"
+    }
+  }
+]
